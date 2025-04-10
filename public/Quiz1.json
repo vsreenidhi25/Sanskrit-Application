@@ -1,898 +1,480 @@
 {
   "id": "Srimad Bhagawatam Slokas",
-  "name": "Srimad Bhagawatam Slokas",
+  "name": "Srimad Bhagawatam Adhyay 1",
   "questions": [
     {
-      "text": "Om Namo Bhagavate Vāsudevāya",
+"text": "Om̐ namo bhagavate vāsudevāya||\n\nJanmādyasya yato'nvayāditarataścārtheṣvabhijñaḥ svarāṭ tene brahma hṛdā ya ādikavaye muhyanti yatsūrayaḥ|\nTejovārimṛdāṁ yathā vinimayo yatra trisargo'mṛṣā dhāmnā svena sadā nirastakuhakaṁ satyaṁ paraṁ dhīmahi||1||",
       "wordByWordMeaning": {
-        "om": "the sacred syllable; an invocation or a sound representing the essence of the universe.",
-        "namo": "bowing, salutation, or homage.",
-        "bhagavate": "to the Lord, the one who possesses all opulences; often referring to God.",
-        "vāsudevāya": "to Vāsudeva, another name for Lord Krishna, signifying the Supreme Personality of Godhead."
+        "om̐": "Primordial sound, sacred syllable.",
+        "namo": "Salutations.",
+        "bhagavate": "To the Lord, the Supreme Being.",
+        "vāsudevāya": "To Vāsudeva, an epithet of Lord Kṛṣṇa.",
+        "janmādyasya": "From whom the creation, etc., of the universe arises.",
+        "yataḥ": "From whom.",
+        "anvayāt": "Through direct connection.",
+        "itarataḥ": "And also in the opposite way.",
+        "artheṣu": "In all things.",
+        "abhijñaḥ": "Fully cognizant.",
+        "svarāṭ": "Self-sufficient, independent ruler.",
+        "tene": "Imparted.",
+        "brahma": "Vedic knowledge.",
+        "hṛdā": "By the heart.",
+        "yaḥ": "Who.",
+        "ādikavaye": "To the primordial sage (Brahmā).",
+        "muhyanti": "Become bewildered.",
+        "yat": "By whom.",
+        "sūrayaḥ": "Great sages or learned men.",
+        "tejovārimṛdāṁ": "Fire, water, and earth.",
+        "yathā": "Just as.",
+        "vinimayaḥ": "Interchange, transformation.",
+        "yatra": "Wherein.",
+        "trisargaḥ": "Threefold creation (based on three Guṇas: Sattva, Rajas, Tamas).",
+        "amṛṣā": "Not unreal.",
+        "dhāmnā": "By His own abode.",
+        "svena": "By His own potency.",
+        "sadā": "Always.",
+        "nirasta-kuhakam": "Devoid of illusion.",
+        "satyam": "Absolute Truth.",
+        "param": "Supreme.",
+        "dhīmahi": "Let us meditate upon."
       },
-      "overallMeaning": "I offer my respectful obeisances unto Lord Vāsudeva, who is the Supreme Being. This verse sets the tone for the entire text, emphasizing devotion and reverence towards the divine."
+      "overallMeaning": "Let us meditate upon the Supreme Truth, who is free from illusion and exists eternally in His own divine abode. He is the self-sufficient ruler, fully cognizant of all things, and the source of creation, sustenance, and dissolution. It is He who revealed Vedic knowledge to the first-born sage, Brahmā, though even the greatest sages remain bewildered by His divine play. Just as fire, water, and earth appear to interchange, so does the material creation emerge, though it is ultimately under His supreme control."
     },
     {
-      "text": "Dharmaḥ projjhita-kaitavo'tra",
+      "text": "Dharmaḥ projjhitakaitavo'tra paramo nirmatsarāṇāṁ satāṁ vedyaṁ vāstavamatra vastu śivadaṁ tāpatrayonmūlanam| Śrīmadbhāgavate mahāmunikṛte kiṁ vā parairīśvaraḥ sadyo hṛdyavarudhyate'tra kṛtibhiḥ śuśrūṣubhistatkṣaṇāt||",
       "wordByWordMeaning": {
-        "dharmaḥ": "the principle of religion, duty, or moral order.",
-        "projjhita": "cast aside, rejected, or abandoned.",
-        "kaitava": "deceit, falsehood, or cheating.",
-        "atra": "here, in this context."
+        "dharmaḥ": "religion, righteousness",
+        "projjhita-kaitavaḥ": "completely rejecting all materially motivated religion",
+        "atra": "herein (in this scripture)",
+        "paramaḥ": "supreme",
+        "nirmatsarāṇām": "for the pure-hearted, free from envy",
+        "satām": "of the devotees or saintly persons",
+        "vedyam": "to be understood",
+        "vāstavam": "real, transcendental",
+        "atra": "herein",
+        "vastu": "substance, truth",
+        "śivadam": "bestowing auspiciousness",
+        "tāpatraya-unmūlanam": "uprooting the threefold miseries (adhyātmika, adhidaivika, adhibhautika)",
+        "śrīmadbhāgavate": "in the Śrīmad Bhāgavatam",
+        "mahāmuni-kṛte": "compiled by the great sage (Vedavyāsa)",
+        "kim vā": "what is the need",
+        "paraiḥ": "for other scriptures",
+        "īśvaraḥ": "the Supreme Lord",
+        "sadyaḥ": "immediately",
+        "hṛdi": "within the heart",
+        "avarudhyate": "becomes captured",
+        "atra": "herein",
+        "kṛtibhiḥ": "by those who are pious",
+        "śuśrūṣubhiḥ": "by those eager to hear",
+        "tat-kṣaṇāt": "at that very moment"
       },
-      "overallMeaning": "Here, in this scripture, all forms of cheating religion are completely rejected. This verse emphasizes the purity of the teachings found in the Śrīmad Bhāgavatam, highlighting its commitment to genuine spirituality."
+      "overallMeaning": "This verse from Śrīmad Bhāgavatam declares that this scripture completely rejects all materially motivated religion and presents the supreme path of truth for pure-hearted devotees. It reveals the real, eternal substance, which bestows ultimate welfare and removes all threefold miseries of material existence. The Bhagavatam, compiled by the great sage Vyāsa, makes the Supreme Lord directly available in the hearts of those who sincerely hear it with devotion, rendering other scriptures unnecessary."
     },
     {
-      "text": "Sattvaṁ viśuddhaṁ vasudeva-śabditam",
+      "text": "Nigamakalpatarorgalitaṁ phalaṁ śukamukhādamṛtadravasaṁyutam| Pibata bhāgavataṁ rasamālayaṁ muhuraho rasikā bhuvi bhāvukāḥ||3||",
       "wordByWordMeaning": {
-        "sattvaṁ": "pure goodness, the mode of goodness.",
-        "viśuddham": "purified, uncontaminated.",
-        "vasudeva": "the Supreme Lord, Krishna.",
-        "śabditam": "described or referred to."
+        "nigama": "the Vedas, scriptures.",
+        "kalpataroḥ": "of the wish-fulfilling tree.",
+        "galitaṁ": "fallen down, ripened.",
+        "phalaṁ": "fruit.",
+        "śuka": "Sage Shuka, son of Vyasa.",
+        "mukhāt": "from the mouth.",
+        "amṛta": "nectar, immortal essence.",
+        "drava": "fluid, essence.",
+        "saṁyutam": "combined, endowed with.",
+        "pibata": "drink, relish.",
+        "bhāgavataṁ": "the Bhagavata Purana.",
+        "rasam": "essence, taste, sentiment.",
+        "ālayaṁ": "till dissolution, liberation.",
+        "muhur": "again and again, repeatedly.",
+        "aho": "Oh! (expressing wonder or exclamation).",
+        "rasikāḥ": "connoisseurs of rasa (sentiments, devotional flavors).",
+        "bhuvi": "on the earth.",
+        "bhāvukāḥ": "those full of devotion and poetic sentiment."
       },
-      "overallMeaning": "This verse indicates that the essence of the Śrīmad Bhāgavatam is pure goodness, dedicated to the Supreme Lord Vāsudeva, emphasizing its spiritual purity."
+      "overallMeaning": "Oh connoisseurs of divine sentiment and poetry! Drink again and again the nectar-like essence of the Śrīmad Bhāgavatam, which is the ripened fruit of the wish-fulfilling tree of the Vedas. This sacred scripture, having fallen from the mouth of Sage Śuka, is imbued with the immortal nectar of divine wisdom. Absorb its essence until the very end, for it grants liberation and eternal bliss."
     },
     {
-      "text": "Tasmād bhārata sarvaṁ",
+      "text": "Nāmiṣe'nimiṣakṣetre ṛṣayaḥ śaunakādayaḥ| Sattraṁ svargāya lokāya sahasrasamamāsata||4||",
       "wordByWordMeaning": {
-        "tasmād": "therefore, for that reason.",
-        "bhārata": "O descendant of Bharata; referring to mankind.",
-        "sarvaṁ": "all, everything."
+        "nāmiṣe": "in Naimiṣa (Naimiṣa forest).",
+        "animiṣa": "the One who does not wink, an epithet of Viṣṇu.",
+        "kṣetre": "in the sacred place, field.",
+        "ṛṣayaḥ": "the Seers, sages.",
+        "śaunakādayaḥ": "beginning with Śaunaka (i.e., Śaunaka and others).",
+        "sattram": "a great Soma sacrifice.",
+        "svargāya": "for attaining heaven, the celestial world.",
+        "lokāya": "for the world, realm.",
+        "sahasrasamam": "lasting a thousand years.",
+        "āsata": "performed, undertook."
       },
-      "overallMeaning": "Therefore, O descendant of Bharata, everything presented here is aimed at uplifting all beings. This verse encourages engagement with the text for the benefit of humanity."
+      "overallMeaning": "In the sacred region of Naimiṣa, a place associated with Animiṣa (Lord Viṣṇu), the great sages, led by Śaunaka, performed a grand Soma sacrifice (Sattra) that lasted for a thousand years. Their purpose was to attain the celestial world, a realm of divine bliss beyond the temporary heavens of Indra."
     },
     {
-      "text": "Sarvaṁ khalv idaṁ brahma",
+      "text": "Ta ekadā tu munayaḥ prātarhutahutāgnayaḥ| Satkṛtaṁ sūtamāsīnaṁ papracchuridamādarāt||5||",
       "wordByWordMeaning": {
-        "sarvaṁ": "all.",
-        "khalu": "certainly, indeed.",
-        "idaṁ": "this.",
-        "brahma": "the ultimate reality or consciousness."
+        "te": "those.",
+        "ekadā": "one day, at a certain time.",
+        "tu": "however, indeed.",
+        "munayaḥ": "sages, seers.",
+        "prātar": "in the early morning.",
+        "huta-huta-agnayaḥ": "having offered oblations to the sacrificial fire.",
+        "satkṛtam": "honored, revered.",
+        "sūtam": "Sūta (a narrator of epics and puranas).",
+        "āsīnam": "seated, sitting.",
+        "papracchuḥ": "asked, inquired.",
+        "idam": "this.",
+        "ādarāt": "with respect, reverence."
       },
-      "overallMeaning": "Indeed, all of this is Brahman (the ultimate reality). This verse affirms the all-encompassing nature of divine consciousness present in creation."
+      "overallMeaning": "One day, in the early morning, after offering oblations into the sacred fire, the revered sages honored Sūta, who was seated among them. With great respect and reverence, they inquired about a significant matter."
     },
     {
-      "text": "Saṁsārārṇava-taralāḥ",
+      "text": "Tvayā khalu purāṇāni setihāsāni cānagha| Ākhyātānyapyadhītāni dharmaśāstrāṇi yānyuta||6||",
       "wordByWordMeaning": {
-        "saṁsārārṇava": "the ocean of material existence.",
-        "taralāḥ": "those who are constantly agitated or moving."
+        "tvayā": "by you.",
+        "khalu": "indeed, surely.",
+        "purāṇāni": "the Purāṇas (ancient scriptures).",
+        "sa-itihāsāni": "and the Itihāsas (epic histories like Mahābhārata and Rāmāyaṇa).",
+        "ca": "and.",
+        "anagha": "O sinless one, faultless one.",
+        "ākhyātāni": "have been explained, narrated.",
+        "api": "as well.",
+        "adhītāni": "have been studied, learned.",
+        "dharmaśāstrāṇi": "scriptures related to Dharma (righteousness, duty).",
+        "yāni": "those which.",
+        "uta": "indeed, certainly."
       },
-      "overallMeaning": "The beings caught in the turbulent ocean of material existence are highlighted here, emphasizing the struggle within the cycle of life."
+      "overallMeaning": "The sages said: 'O sinless one, you have indeed narrated and studied the Purāṇas, the Itihāsas (such as the Mahābhārata and Rāmāyaṇa), and the scriptures that expound Dharma. You are well-versed in these sacred texts.'"
     },
     {
-      "text": "Yad bhāgavatam iha",
+      "text": "Yāni vedavidāṁ śreṣṭho bhagavānbādarāyaṇaḥ| Anye ca munayaḥ sūta parāvaravido viduḥ||7||",
       "wordByWordMeaning": {
-        "yat": "what; that which.",
-        "bhāgavatam": "the scripture of the devotees.",
-        "iha": "here."
+        "yāni": "those (scriptures).",
+        "vedavidām": "among the knowers of the Vedas.",
+        "śreṣṭhaḥ": "the best, the foremost.",
+        "bhagavān": "glorious, revered.",
+        "bādarāyaṇaḥ": "Bādarāyaṇa (Vyāsa, the compiler of the Vedas and Purāṇas).",
+        "anye": "other.",
+        "ca": "and.",
+        "munayaḥ": "sages, seers.",
+        "sūta": "O Sūta (narrator of Purāṇas).",
+        "parāvara-vidaḥ": "knowers of the distant and the near, or of the past and future.",
+        "viduḥ": "knew, understood."
       },
-      "overallMeaning": "What is found in the Bhāgavatam here is emphasized as a guide for devotees, showcasing its significance in spiritual practice."
+      "overallMeaning": "O Sūta, the revered sage Bādarāyaṇa (Vyāsa), the foremost among the knowers of the Vedas, along with other sages who possess the wisdom of both the manifest and the unmanifest, or the past and the future, also knew these sacred scriptures."
     },
     {
-      "text": "Bhāgavataṁ prāṇam",
+      "text": "Vettha tvaṁ saumya tatsarvaṁ tattvatastadanugrahāt| Brūyuḥ snigdhasya śiṣyasya guravo guhyamapyuta||8||",
       "wordByWordMeaning": {
-        "bhāgavataṁ": "the scripture or essence of the devotees.",
-        "prāṇam": "life or breath."
+        "vettha": "you know, understand.",
+        "tvam": "you.",
+        "saumya": "O gentle one, excellent man.",
+        "tat": "that.",
+        "sarvam": "all, everything.",
+        "tattvatas": "truly, in essence.",
+        "tad": "their.",
+        "anugrahāt": "by grace, due to favor.",
+        "brūyuḥ": "they (the gurus) speak, reveal.",
+        "snigdhasya": "to the affectionate, devoted.",
+        "śiṣyasya": "disciple, student.",
+        "guravaḥ": "teachers, spiritual preceptors.",
+        "guhyam": "that which is secret, mysterious.",
+        "api": "even, also.",
+        "uta": "indeed, doubtless."
       },
-      "overallMeaning": "The Bhāgavata is considered the very life and essence for devotees, underscoring its importance in their spiritual journey."
+      "overallMeaning": "O gentle one, you truly know all this by the grace of the sages. The gurus certainly reveal even the most secret and profound knowledge to a devoted and loving disciple."
     },
     {
-      "text": "Na hi tebhyo vṛṇīte",
+      "text": "Tatra tatrāñjasāyuṣmanbhavatā yadviniścitam| Puṁsāmekāntataḥ śreyastannaḥ śaṁsitumarhasi||9||",
       "wordByWordMeaning": {
+        "tatra": "therefore, in that regard.",
+        "tatra": "in that context.",
+        "añjasā": "straightforwardly, honestly.",
+        "āyuṣman": "O long-lived one.",
+        "bhavatā": "by you (a respectful form of 'you').",
+        "yad": "whatever.",
+        "viniścitam": "ascertained, determined with certainty.",
+        "puṁsām": "of men, of human beings.",
+        "ekāntataḥ": "invariably, permanently.",
+        "śreyas": "auspiciousness, welfare, ultimate good.",
+        "tat": "that.",
+        "naḥ": "to us.",
+        "śaṁsitum": "to tell, to explain.",
+        "arhasi": "you should, you ought to."
+      },
+      "overallMeaning": "Therefore, O long-lived one, whatever you have ascertained with certainty in this matter, please tell us, as it is invariably conducive to the ultimate welfare of humankind."
+    },
+    {
+      "text": "Prāyeṇālpāyuṣaḥ sabhya kalāvasminyuge janāḥ| Mandāḥ sumandamatayo mandabhāgyā hyupadrutāḥ||10||",
+      "wordByWordMeaning": {
+        "prāyeṇa": "mostly, generally.",
+        "alpa-āyuṣaḥ": "short-lived.",
+        "sabhya": "O refined one, noble person.",
+        "kalau": "in Kaliyuga (the age of quarrel).",
+        "asmin": "in this.",
+        "yuge": "age, era.",
+        "janāḥ": "people, human beings.",
+        "mandāḥ": "lazy, slow.",
+        "sumanda-matayaḥ": "very slow-witted, of poor intellect.",
+        "manda-bhāgyāḥ": "unfortunate, of poor fortune.",
+        "hi": "undoubtedly, indeed.",
+        "upadrutāḥ": "oppressed, afflicted."
+      },
+      "overallMeaning": "O noble one, in this age of Kaliyuga, people are generally short-lived, lazy, slow-witted, unfortunate, and undoubtedly afflicted by various troubles such as diseases and calamities."
+    },
+    {
+      "text": "Bhūrīṇi bhūrikarmāṇi śrotavyāni vibhāgaśaḥ| Ataḥ sādho'tra yatsāraṁ samuddhṛtya maniṣayā| Brūhi bhadrāya bhūtānāṁ yenātmā suprasīdati||11||",
+      "wordByWordMeaning": {
+        "bhūrīṇi": "many, numerous (scriptures).",
+        "bhūri": "abundant, extensive.",
+        "karmāṇi": "duties, actions.",
+        "śrotavyāni": "to be heard, to be studied.",
+        "vibhāgaśaḥ": "separately, according to divisions.",
+        "ataḥ": "therefore, for this reason.",
+        "sādho": "O holy one, O sage.",
+        "atra": "here, in this context.",
+        "yat": "that which, what.",
+        "sāram": "essence, the most valuable part.",
+        "samuddhṛtya": "extracting, drawing out.",
+        "manīṣayā": "by wisdom, through intelligence.",
+        "brūhi": "speak, tell.",
+        "bhadrāya": "for the benefit, for the welfare.",
+        "bhūtānām": "of all living beings, of creatures.",
+        "yena": "by which, through which.",
+        "ātmā": "the self, the soul, the mind.",
+        "suprasīdati": "becomes fully pleased, attains complete peace."
+      },
+      "overallMeaning": "There are numerous scriptures and extensive duties described in them, each divided into different sections. Therefore, O holy one, please extract the essence of these teachings through your wisdom and share it for the welfare of all living beings. By doing so, the self (ātmā) will attain complete peace and satisfaction."
+    },
+    {
+      "text": "Sūta jānāsi bhadraṁ te bhagavānsātvatāṁ patiḥ| Devakyāṁ vasudevasya jāto yasya cikīrṣayā||12||",
+      "wordByWordMeaning": {
+        "sūta": "O Sūta, learned storyteller.",
+        "jānāsi": "you know, you are aware.",
+        "bhadram": "prosperity, well-being, blessings.",
+        "te": "to you, for you.",
+        "bhagavān": "the Fortunate One, the Supreme Lord (Krishna).",
+        "sātvatām": "of the Sātvatas, of the devotees, of the Yadu dynasty.",
+        "patiḥ": "Lord, protector, master.",
+        "devakyām": "in Devakī, within Devakī.",
+        "vasudevasya": "of Vasudeva, belonging to Vasudeva.",
+        "jātaḥ": "born, incarnated.",
+        "yasya": "whose, of whom.",
+        "cikīrṣayā": "with the intention, with the purpose."
+      },
+      "overallMeaning": "O Sūta, may prosperity be upon you! You know the divine intention with which the Supreme Lord, the protector of the Sātvatas (devotees and Yadu dynasty), was born as the son of Vasudeva and Devakī."
+    },
+    {
+      "text": "Tannaḥ śuśrūṣamāṇānāmarhasyaṅgānuvarṇitum| Yasyāvatāro bhūtānāṁ kṣemāya ca bhavāya ca||13||",
+      "wordByWordMeaning": {
+        "tat": "that, this (referring to the divine story).",
+        "naḥ": "for us, to us.",
+        "śuśrūṣamāṇānām": "of those who are eager to listen, desiring to hear.",
+        "arhasi": "you are worthy, you are fit.",
+        "aṅga": "O revered one, O Sūta!",
+        "anuvarṇitum": "to narrate, to describe in detail.",
+        "yasya": "whose, of whom.",
+        "avatāraḥ": "incarnation, descent (of the Lord).",
+        "bhūtānām": "of living beings, of all creatures.",
+        "kṣemāya": "for welfare, for well-being.",
+        "ca": "and, as well as.",
+        "bhavāya": "for prosperity, for spiritual advancement."
+      },
+      "overallMeaning": "O revered Sūta! Please narrate to us, who are eager to listen, about that divine incarnation, whose descent is solely for the welfare and prosperity of all living beings."
+    },
+    {
+      "text": "Āpannaḥ saṁsṛtiṁ ghorāṁ yannāma vivaśo gṛṇan| Tataḥ sadyo vimucyeta yadbibheti svayaṁ bhayam||14||",
+      "wordByWordMeaning": {
+        "āpannaḥ": "having entered, fallen into.",
+        "saṁsṛtim": "cycle of birth and death, transmigration.",
+        "ghorām": "terrible, dreadful.",
+        "yat": "whose, which.",
+        "nāma": "name, divine name.",
+        "vivaśaḥ": "helpless, involuntarily.",
+        "gṛṇan": "chanting, uttering.",
+        "tataḥ": "from that, because of that.",
+        "sadyaḥ": "immediately, at once.",
+        "vimucyeta": "gets liberated, is freed.",
+        "yat ": "whom, which.",
+        "bibheti": "fears, is afraid of.",
+        "svayam": "itself, on its own.",
+        "bhayam": "fear, terror."
+      },
+      "overallMeaning": "One who has fallen into the dreadful cycle of birth and death, if he utters the divine Name—even involuntarily—he is immediately freed from it. Indeed, fear itself is afraid of that Name."
+    },
+    {
+      "text": "Yatpādasaṁśrayāḥ sūta munayaḥ praśamāyanāḥ| Sadyaḥ punantyupaspṛṣṭāḥ svardhunyāpo'nusevayā||15||",
+      "wordByWordMeaning": {
+        "yat": "whose, which.",
+        "pāda": "feet.",
+        "saṁśrayāḥ": "taking refuge in, seeking shelter.",
+        "sūta": "O Sūta! (a respectful address to the speaker).",
+        "munayaḥ": "sages, wise men.",
+        "praśamāyanāḥ": "calm, tranquil, peaceful in nature.",
+        "sadyaḥ": "immediately, at once.",
+        "punanti": "purify, cleanse.",
+        "upaspṛṣṭāḥ": "touched, bathed.",
+        "svardhunī": "the celestial river, the Ganges.",
+        "āpaḥ": "waters.",
+        "anusevayā": "by constant service, frequent visitation."
+      },
+      "overallMeaning": "O Sūta! The tranquil sages who have taken refuge in His feet purify others immediately upon contact, just as the waters of the sacred Ganges purify, though only with repeated use."
+    },
+    {
+      "text": "Ko vā bhagavatastasya puṇyaślokeḍyakarmanaḥ| Śuddhikāmo na śṛṇuyādyaśaḥ kalimalāpaham||16||",
+      "wordByWordMeaning": {
+        "kaḥ": "who, which person.",
+        "vā": "possibly, indeed.",
+        "bhagavataḥ": "of the Fortunate One, the Supreme Lord.",
+        "tasya": "of Him, of that (Lord).",
+        "puṇyaślokeḍya": "praised by auspicious verses.",
+        "karmaṇaḥ": "whose deeds or actions.",
+        "śuddhi": "purification, purity.",
+        "kāmaḥ": "desire, longing.",
         "na": "not.",
-        "hi": "indeed.",
-        "tebhyo": "to them.",
-        "vṛṇīte": "choose or select."
+        "śṛṇuyāt": "would listen, would hear.",
+        "yaśaḥ": "fame, glory.",
+        "kalimala": "impurity of Kali Yuga (age of discord).",
+        "āpaham": "remover, destroyer."
       },
-      "overallMeaning": "Indeed, it does not select among those who are committed. This verse suggests inclusivity in the spiritual pursuit presented in the text."
+      "overallMeaning": "Who, indeed, desiring purification, would not listen to the glorious fame of the Supreme Lord, whose deeds are praised by sacred verses and who removes the impurities of Kali Yuga?"
     },
     {
-      "text": "Tasmād gāyanti saṁsṛtiḥ",
+      "text": "Tasya karmāṇyudārāṇi parigītāni sūribhiḥ| Brūhi naḥ śraddadhānānāṁ līlayā dadhataḥ kalāḥ||17||",
       "wordByWordMeaning": {
-        "tasmād": "therefore.",
-        "gāyanti": "sing.",
-        "saṁsṛtiḥ": "the process of material existence."
+        "tasya": "of Him, of that (Lord).",
+        "karmāṇi": "actions, deeds.",
+        "udārāṇi": "exalted, great, noble.",
+        "parigītāni": "sung, glorified.",
+        "sūribhiḥ": "by wise and learned beings, sages.",
+        "brūhi": "speak, tell.",
+        "naḥ": "to us.",
+        "śraddadhānānām": "of those who have faith, devoted ones.",
+        "līlayā": "playfully, as a divine pastime.",
+        "dadhataḥ": "manifesting, bearing, assuming.",
+        "kalāḥ": "primary forms (such as Brahmā, Rudra, etc.)."
       },
-      "overallMeaning": "Therefore, they sing about the process of material existence, emphasizing the importance of devotion and the teachings of the Bhāgavatam in navigating life."
+      "overallMeaning": "His exalted deeds, which are glorified by wise sages, manifest as divine pastimes. O wise one, please narrate them to us, the faithful, especially about His primary forms such as Brahmā and Rudra, which He assumes in His divine play."
     },
     {
-      "text": "Vishnuḥ svayam avāpyāsa",
+      "text": "Athākhyāhi harerdhīmannavatārakathāḥ śubhāḥ| Līlā vidadhataḥ svairamīśvarasyātmamāyayā||18||",
       "wordByWordMeaning": {
-        "vishnuḥ": "Vishnu, the preserver.",
-        "svayam": "personally.",
-        "avāpyāsa": "achieved or obtained."
+        "atha": "now, then.",
+        "ākhyāhi": "tell, narrate.",
+        "hareḥ": "of Hari (Lord Viṣṇu).",
+        "dhīman": "O wise one, intelligent one.",
+        "avatārakathāḥ": "stories of the incarnations.",
+        "śubhāḥ": "auspicious, splendid.",
+        "līlāḥ": "divine pastimes, play.",
+        "vidadhataḥ": "of the one who performs, enacts.",
+        "svairam": "freely, according to His own will.",
+        "īśvarasya": "of the Supreme Lord.",
+        "ātma-māyayā": "by His own divine power (Māyā)."
       },
-      "overallMeaning": "Vishnu Himself is attained through devotion. This verse emphasizes the personal nature of the divine relationship in spiritual practice."
+      "overallMeaning": "O wise one, please narrate the auspicious stories of Lord Hari’s incarnations. His divine pastimes are enacted freely by the Supreme Lord through His own divine power (Māyā)."
     },
     {
-      "text": "Sarvaṁ saṁsārārṇavaṁ",
+      "text": "Vayaṁ tu na vitṛpyāma uttamaślokavikrame| Yāchṛṇvatāṁ rasajñānāṁ svādu svādu pade pade||19||",
       "wordByWordMeaning": {
-        "sarvaṁ": "all.",
-        "saṁsārārṇavaṁ": "the ocean of material existence."
-      },
-      "overallMeaning": "All beings are caught in the ocean of material existence. This verse reflects on the pervasive nature of worldly entanglements."
-    },
-    {
-      "text": "Sukhaṁ vā yadi vā duḥkham",
-      "wordByWordMeaning": {
-        "sukhaṁ": "happiness.",
-        "vā.": "or.",
-        "yadi": "if.",
-        "vā": "or.",
-        "duḥkham": "suffering."
-      },
-      "overallMeaning": "Whether in happiness or suffering, one should remain steadfast in devotion. This verse highlights the importance of maintaining spiritual focus regardless of life's circumstances."
-    },
-    {
-      "text": "Nārāyaṇaṁ namaskṛtya",
-      "wordByWordMeaning": {
-        "nārāyaṇaṁ": "to Nārāyaṇa (another name for Vishnu),",
-        "namaskṛtya": "bowing down or offering respects."
-      },
-      "overallMeaning": "One should bow to Nārāyaṇa before engaging in spiritual practices. This verse emphasizes the significance of humility and reverence in devotion."
-    },
-    {
-      "text": "Mukhyaṁ tatra pṛthak smṛtiḥ",
-      "wordByWordMeaning": {
-        "mukhyaṁ": "the principal or foremost.",
-        "tatra": "there.",
-        "pṛthak": "separately.",
-        "smṛtiḥ": "memory or remembrance."
-      },
-      "overallMeaning": "The principal remembrance of the divine should be maintained. This verse underscores the importance of constant remembrance of God in spiritual life."
-    },
-    {
-      "text": "Vishuddhāṁ bhakti-yogam",
-      "wordByWordMeaning": {
-        "vishuddhāṁ": "pure.",
-        "bhakti-yogam": "the path of devotion."
-      },
-      "overallMeaning": "The pure path of devotion is essential for spiritual advancement. This verse highlights the necessity of sincere devotion in connecting with the divine."
-    },
-    {
-      "text": "Dharmaṁ samāhitaṁ sukham",
-      "wordByWordMeaning": {
-        "dharmaṁ": "duty or righteousness.",
-        "samāhitaṁ": "focused or concentrated.",
-        "sukham": "happiness."
-      },
-      "overallMeaning": "When one is focused on their righteous duty, they find true happiness. This verse emphasizes the connection between duty and spiritual fulfillment."
-    },
-    {
-      "text": "Kṛṣṇaṁ bhagavataṁ bhāga",
-      "wordByWordMeaning": {
-        "kṛṣṇaṁ": "to Krishna.",
-        "bhagavataṁ": "the Lord.",
-        "bhāga": "portion or aspect."
-      },
-      "overallMeaning": "Krishna is the essential aspect of the divine. This verse identifies Krishna as the central focus of devotion and spiritual realization."
-    },
-    {
-      "text": "Sādhu-vṛttaṁ saṁsāraṁ",
-      "wordByWordMeaning": {
-        "sādhu-vṛttaṁ": "the behavior of the saintly.",
-        "saṁsāraṁ": "the material world."
-      },
-      "overallMeaning": "The saintly behavior should be reflected in the material world. This verse encourages embodying spiritual values amidst worldly existence."
-    },
-    {
-      "text": "Saṁsāraṁ jīva-śarīraṁ",
-      "wordByWordMeaning": {
-        "saṁsāraṁ": "the cycle of birth and death.",
-        "jīva-śarīraṁ": "the body of the living being."
-      },
-      "overallMeaning": "The cycle of birth and death is embodied in the living being. This verse reflects on the transient nature of material existence."
-    },
-    {
-      "text": "Dharmaḥ prabhur avāpyāsa",
-      "wordByWordMeaning": {
-        "dharmaḥ": "duty, righteousness.",
-        "prabhur": "the Lord.",
-        "avāpyāsa": "achieved or obtained."
-      },
-      "overallMeaning": "Righteousness is achieved through the Lord. This verse emphasizes the divine guidance in fulfilling one's duties."
-    },
-    {
-      "text": "Sukhaṁ vā yadi vā duḥkham",
-      "wordByWordMeaning": {
-        "sukhaṁ": "happiness.",
-        "vā.": "or.",
-        "yadi": "if.",
-        "vā": "or.",
-        "duḥkham": "suffering."
-      },
-      "overallMeaning": "In happiness or suffering, remain devoted. This verse teaches the importance of unwavering devotion amidst life's ups and downs."
-    },
-    {
-      "text": "Vishnuḥ svayam avāpyāsa",
-      "wordByWordMeaning": {
-        "vishnuḥ": "Vishnu, the preserver.",
-        "svayam": "personally.",
-        "avāpyāsa": "achieved or obtained."
-      },
-      "overallMeaning": "Devotion leads to the personal attainment of Vishnu. This verse highlights the personal relationship cultivated through sincere devotion."
-    },
-    {
-      "text": "Bhakti-yogam prabhur avāpyāsa",
-      "wordByWordMeaning": {
-        "bhakti-yogam": "the path of devotion.",
-        "prabhur": "the Lord.",
-        "avāpyāsa": "achieved or obtained."
-      },
-      "overallMeaning": "The path of devotion leads to the Lord. This verse underscores the significance of bhakti (devotion) in realizing the divine."
-    },
-    {
-      "text": "Dharmaṁ samāhitaṁ sukham",
-      "wordByWordMeaning": {
-        "dharmaṁ": "duty or righteousness.",
-        "samāhitaṁ": "focused or concentrated.",
-        "sukham": "happiness."
-      },
-      "overallMeaning": "Focused on duty, one finds happiness. This verse highlights the harmony between righteous action and personal fulfillment."
-    },
-    {
-      "text": "Kṛṣṇaṁ bhagavataṁ bhāga",
-      "wordByWordMeaning": {
-        "kṛṣṇaṁ": "to Krishna.",
-        "bhagavataṁ": "the Lord.",
-        "bhāga": "portion or aspect."
-      },
-      "overallMeaning": "Krishna represents the essential aspect of divinity. This verse centers on Krishna as the focal point of devotion."
-    },
-    {
-      "text": "Sādhu-vṛttaṁ saṁsāraṁ",
-      "wordByWordMeaning": {
-        "sādhu-vṛttaṁ": "the behavior of the saintly.",
-        "saṁsāraṁ": "the material world."
-      },
-      "overallMeaning": "Saintly behavior should guide actions in the material world. This verse encourages embodying spiritual values in daily life."
-    },
-    {
-      "text": "Saṁsāraṁ jīva-śarīraṁ",
-      "wordByWordMeaning": {
-        "saṁsāraṁ": "the cycle of birth and death.",
-        "jīva-śarīraṁ": "the body of the living being."
-      },
-      "overallMeaning": "The living being experiences the cycle of birth and death. This verse reflects on the transient nature of physical existence."
-    },
-    {
-      "text": "Karmaṁ dharmaṁ smṛtiḥ",
-      "wordByWordMeaning": {
-        "karmaṁ": "action.",
-        "dharmaṁ": "duty.",
-        "smṛtiḥ": "memory or remembrance."
-      },
-      "overallMeaning": "Remembrance of duty and action is essential. This verse emphasizes the importance of awareness of one’s duties in life."
-    },
-    {
-      "text": "Yajñāṁ vā bhagavataṁ",
-      "wordByWordMeaning": {
-        "yajñāṁ": "sacrifices.",
-        "vā": "or.",
-        "bhagavataṁ": "the Lord."
-      },
-      "overallMeaning": "Sacrifices dedicated to the Lord are vital. This verse highlights the importance of selfless acts in devotion."
-    },
-    {
-      "text": "Yatra te dharma-vidhāyakah",
-      "wordByWordMeaning": {
-        "yatra": "where.",
-        "te": "your.",
-        "dharma-vidhāyakah": "the one who prescribes duty."
-      },
-      "overallMeaning": "Wherever you, O Lord, prescribe duty, there is the essence of righteousness. This verse emphasizes the divine guidance in determining moral actions."
-    },
-    {
-      "text": "Vishuddhaṁ bhakti-yogam",
-      "wordByWordMeaning": {
-        "vishuddhaṁ": "pure.",
-        "bhakti-yogam": "the path of devotion."
-      },
-      "overallMeaning": "The pure path of devotion is emphasized. This verse highlights the significance of sincerity in spiritual practice."
-    },
-    {
-      "text": "Krīḍāṁ yathā vā daivīṁ",
-      "wordByWordMeaning": {
-        "krīḍāṁ": "play or pastime.",
-        "yathā": "as.",
-        "vā": "or.",
-        "daivīṁ": "divine."
-      },
-      "overallMeaning": "Just as divine play unfolds, life is a manifestation of the Supreme. This verse draws parallels between divine pastimes and our existence."
-    },
-    {
-      "text": "Tad bhāgavatam iha",
-      "wordByWordMeaning": {
-        "tad": "that.",
-        "bhāgavatam": "the scripture of the devotees.",
-        "iha": "here."
-      },
-      "overallMeaning": "That which is found in the Bhāgavatam is essential for devotees. This verse underscores the importance of the scripture in guiding spiritual lives."
-    },
-    {
-      "text": "Dharmaṁ paramam ādikavi",
-      "wordByWordMeaning": {
-        "dharmaṁ": "duty or righteousness.",
-        "paramam": "the supreme.",
-        "ādikavi": "the original poet or sage."
-      },
-      "overallMeaning": "The supreme duty prescribed by the original sage is highlighted. This verse reflects on the eternal principles of righteousness."
-    },
-    {
-      "text": "Sādhu-vṛttaṁ saṁsāraṁ",
-      "wordByWordMeaning": {
-        "sādhu-vṛttaṁ": "the behavior of the saintly.",
-        "saṁsāraṁ": "the material world."
-      },
-      "overallMeaning": "Saintly conduct should guide interactions in the material world. This verse encourages aligning one's behavior with spiritual principles."
-    },
-    {
-      "text": "Kṛṣṇaṁ bhagavataṁ bhāga",
-      "wordByWordMeaning": {
-        "kṛṣṇaṁ": "to Krishna.",
-        "bhagavataṁ": "the Lord.",
-        "bhāga": "portion or aspect."
-      },
-      "overallMeaning": "Krishna embodies the essential aspect of the divine. This verse reiterates Krishna's significance as the focal point of devotion."
-    },
-    {
-      "text": "Vishnuḥ svayam avāpyāsa",
-      "wordByWordMeaning": {
-        "vishnuḥ": "Vishnu, the preserver.",
-        "svayam": "personally.",
-        "avāpyāsa": "achieved or obtained."
-      },
-      "overallMeaning": "Devotion leads to the personal attainment of Vishnu. This verse emphasizes the personal relationship cultivated through sincere devotion."
-    },
-    {
-      "text": "Saṁsāraṁ jīva-śarīraṁ",
-      "wordByWordMeaning": {
-        "saṁsāraṁ": "the cycle of birth and death.",
-        "jīva-śarīraṁ": "the body of the living being."
-      },
-      "overallMeaning": "The living being experiences the cycle of birth and death. This verse reflects on the transient nature of physical existence."
-    },
-    {
-      "text": "Na hi tebhyo vṛṇīte",
-      "wordByWordMeaning": {
+        "vayam": "we.",
+        "tu": "certainly, indeed.",
         "na": "not.",
-        "hi": "indeed.",
-        "tebhyo": "to them.",
-        "vṛṇīte": "choose or select."
+        "vitṛpyāmaḥ": "become satiated, feel content.",
+        "uttamaśloka": "the Highly Renowned One (Lord Viṣṇu), whose praises are sung in supreme verses.",
+        "vikrame": "glorious exploits, heroic deeds, goings.",
+        "yat": "which.",
+        "śṛṇvatām": "for those who listen, hear.",
+        "rasajñānām": "for those who are connoisseurs of divine taste (Rasa).",
+        "svādu svādu": "extremely sweet, delicious (increasingly enjoyable).",
+        "pade pade": "at every step, every moment."
       },
-      "overallMeaning": "Indeed, it does not select among those who are committed. This verse suggests inclusivity in the spiritual pursuit presented in the text."
+      "overallMeaning": "Indeed, we never become satiated with the glorious exploits of the Highly Renowned One (Lord Viṣṇu). For those who listen and are connoisseurs of divine taste, these pastimes become sweeter and sweeter at every moment."
     },
     {
-      "text": "Yad anugrahāyāpi",
+      "text": "Kṛtavānkila karmāṇi saha rāmeṇa keśavaḥ| Atimartyāni bhagavāngūḍhaḥ kapaṭamānuṣaḥ||20||",
       "wordByWordMeaning": {
-        "yat": "that which.",
-        "anugrahāyāpi": "for the sake of mercy or grace."
+        "kṛtavān": "has done, performed.",
+        "kila": "indeed, surely.",
+        "karmāṇi": "actions, deeds.",
+        "saha": "along with, together with.",
+        "rāmeṇa": "with Rāma (referring to Balarāma here).",
+        "keśavaḥ": "Keśava (an epithet of Kṛṣṇa, meaning 'one with beautiful hair').",
+        "atimartyāni": "superhuman, beyond mortal capacity.",
+        "bhagavān": "the Fortunate One, the Lord.",
+        "gūḍhaḥ": "concealed, hidden.",
+        "kapaṭa": "deceptive, deceitfully.",
+        "mānuṣaḥ": "as a human being."
       },
-      "overallMeaning": "That which is granted out of mercy. This verse highlights the importance of divine grace in spiritual advancement."
+      "overallMeaning": "Indeed, the Fortunate One (Bhagavān), known as Keśava, along with Balarāma, performed superhuman deeds, all while remaining hidden in a deceptive human form."
     },
     {
-      "text": "Krīḍāṁ yathā vā daivīṁ",
+      "text": "Kalimāgatamājñāya kṣetre'sminvaiṣṇave vayam| Āsīnā dīrghasattreṇa kathāyāṁ sakṣaṇā hareḥ||21||",
       "wordByWordMeaning": {
-        "krīḍāṁ": "play or pastime.",
-        "yathā": "as.",
-        "vā": "or.",
-        "daivīṁ": "divine."
+        "kalim": "Kaliyuga, the age of discord.",
+        "āgatam": "arrived, come.",
+        "ājñāya": "knowing, understanding.",
+        "kṣetre": "in the sacred place, in the field.",
+        "asmin": "in this.",
+        "vaiṣṇave": "sacred to Lord Viṣṇu.",
+        "vayam": "we.",
+        "āsīnāḥ": "sitting, seated.",
+        "dīrgha": "long, extended.",
+        "sattreṇa": "by (performing) a sacrifice, a Vedic ritual.",
+        "kathāyām": "in the story, in the discourse.",
+        "sakṣaṇāḥ": "having leisure, having an opportunity.",
+        "hareḥ": "of Hari (Viṣṇu)."
       },
-      "overallMeaning": "Just as divine play unfolds, life is a manifestation of the Supreme. This verse draws parallels between divine pastimes and our existence."
+      "overallMeaning": "Recognizing that Kaliyuga has arrived, we are seated in this sacred place of Viṣṇu, engaged in a long sacrificial ritual, with the leisure to listen to the divine stories of Hari."
     },
     {
-      "text": "Sukhaṁ vā yadi vā duḥkham",
+      "text": "Tvaṁ naḥ sandarśito dhātrā dustaraṁ nistitīrṣatām| Kaliṁ sattvaharaṁ puṁsāṁ karṇadhāra ivārṇavam||22||",
       "wordByWordMeaning": {
-        "sukhaṁ": "happiness.",
-        "vā.": "or.",
-        "yadi": "if.",
-        "vā": "or.",
-        "duḥkham": "suffering."
+        "tvam": "you.",
+        "naḥ": "to us.",
+        "sandarśitaḥ": "made visible, appeared.",
+        "dhātrā": "by divine providence, by the Lord.",
+        "dustaram": "unconquerable, very difficult to cross.",
+        "nistitīrṣatām": "for those desiring to cross.",
+        "kalim": "Kaliyuga, the age of discord.",
+        "sattvaharam": "destroyer of goodness, depleting purity.",
+        "puṁsām": "of people, of men.",
+        "karṇadhāraḥ": "a helmsman, a navigator.",
+        "iva": "as if, like.",
+        "arṇavam": "the ocean, vast waters."
       },
-      "overallMeaning": "Whether in happiness or suffering, one should remain steadfast in devotion. This verse highlights the importance of maintaining spiritual focus regardless of life's circumstances."
+      "overallMeaning": "You have appeared before us by divine providence, like a helmsman guiding those who wish to cross the vast and unconquerable ocean of Kaliyuga, which robs people of their goodness."
     },
     {
-      "text": "Saṁsāraṁ jīva-śarīraṁ",
+      "text": "Brūhi yogeśvare kṛṣṇe brahmaṇye dharmavarmaṇi| Svāṁ kāṣṭhāmadhunopete dharmaḥ kaṁ śaraṇaṁ gataḥ||23||",
       "wordByWordMeaning": {
-        "saṁsāraṁ": "the cycle of birth and death.",
-        "jīva-śarīraṁ": "the body of the living being."
+        "brūhi": "tell (us).",
+        "yogeśvare": "the Lord of Yoga.",
+        "kṛṣṇe": "Krishna.",
+        "brahmaṇye": "the pious one, related to sacred knowledge.",
+        "dharmavarmaṇi": "the one who is like an armor for Dharma.",
+        "svām": "own.",
+        "kāṣṭhām": "final goal, highest abode.",
+        "adhunā": "now.",
+        "upete": "entered, reached.",
+        "dharmaḥ": "Dharma, righteousness.",
+        "kaṁ": "which.",
+        "śaraṇam": "refuge, shelter.",
+        "gataḥ": "gone to."
       },
-      "overallMeaning": "The living being experiences the cycle of birth and death. This verse reflects on the transient nature of physical existence."
+      "overallMeaning": "Now that Krishna, the pious Lord of Yoga and protector of Dharma, has entered His own highest Abode, tell us—where has Dharma taken refuge?"
     },
     {
-      "text": "Bhakti-yogam prabhur avāpyāsa",
+      "text": "Iti śrīmadbhāgavate mahāpurāṇe prathamaskandhe naimiṣeyopākhyāne prathamo'dhyāyaḥ||1||",
       "wordByWordMeaning": {
-        "bhakti-yogam": "the path of devotion.",
-        "prabhur": "the Lord.",
-        "avāpyāsa": "achieved or obtained."
+        "iti": "thus ends.",
+        "śrīmadbhāgavate": "in the revered Śrīmad Bhāgavatam.",
+        "mahāpurāṇe": "the great Purāṇa.",
+        "prathamaskandhe": "in the first canto (section).",
+        "naimiṣeyopākhyāne": "in the narrative related to Naimiṣa forest.",
+        "prathamo'dhyāyaḥ": "the first chapter."
       },
-      "overallMeaning": "The path of devotion leads to the Lord. This verse underscores the significance of bhakti (devotion) in realizing the divine."
-    },
-    {
-      "text": "Dharmaṁ paramam ādikavi",
-      "wordByWordMeaning": {
-        "dharmaṁ": "duty or righteousness.",
-        "paramam": "the supreme.",
-        "ādikavi": "the original poet or sage."
-      },
-      "overallMeaning": "The supreme duty prescribed by the original sage is highlighted. This verse reflects on the eternal principles of righteousness."
-    },
-    {
-      "text": "Tad bhāgavatam iha",
-      "wordByWordMeaning": {
-        "tad": "that.",
-        "bhāgavatam": "the scripture of the devotees.",
-        "iha": "here."
-      },
-      "overallMeaning": "That which is found in the Bhāgavatam is essential for devotees. This verse underscores the importance of the scripture in guiding spiritual lives."
-    },
-    {
-      "text": "Yatra te dharma-vidhāyakah",
-      "wordByWordMeaning": {
-        "yatra": "where.",
-        "te": "your.",
-        "dharma-vidhāyakah": "the one who prescribes duty."
-      },
-      "overallMeaning": "Wherever you, O Lord, prescribe duty, there is the essence of righteousness. This verse emphasizes the divine guidance in determining moral actions."
-    },
-    {
-      "text": "Vishuddhaṁ bhakti-yogam",
-      "wordByWordMeaning": {
-        "vishuddhaṁ": "pure.",
-        "bhakti-yogam": "the path of devotion."
-      },
-      "overallMeaning": "The pure path of devotion is emphasized. This verse highlights the significance of sincerity in spiritual practice."
-    },
-    {
-      "text": "Yajñāṁ vā bhagavataṁ",
-      "wordByWordMeaning": {
-        "yajñāṁ": "sacrifices.",
-        "vā": "or.",
-        "bhagavataṁ": "the Lord."
-      },
-      "overallMeaning": "Sacrifices dedicated to the Lord are vital. This verse highlights the importance of selfless acts in devotion."
-    },
-    {
-      "text": "Saṁsāraṁ pāraṁ pṛthak",
-      "wordByWordMeaning": {
-        "saṁsāraṁ": "the cycle of birth and death.",
-        "pāraṁ": "transcendental.",
-        "pṛthak": "separate."
-      },
-      "overallMeaning": "Transcendental knowledge separates one from the cycle of birth and death. This verse emphasizes the liberating power of spiritual wisdom."
-    },
-    {
-      "text": "Yathā gāyanti bhaktāḥ",
-      "wordByWordMeaning": {
-        "yathā": "as.",
-        "gāyanti": "they sing.",
-        "bhaktāḥ": "the devotees."
-      },
-      "overallMeaning": "As the devotees sing, they express their devotion. This verse highlights the role of devotion and chanting in spiritual practice."
-    },
-    {
-      "text": "Kṛṣṇaṁ bhagavataṁ bhāga",
-      "wordByWordMeaning": {
-        "kṛṣṇaṁ": "to Krishna.",
-        "bhagavataṁ": "the Lord.",
-        "bhāga": "portion or aspect."
-      },
-      "overallMeaning": "Krishna embodies the essential aspect of the divine. This verse reiterates Krishna's significance as the focal point of devotion."
-    },
-    {
-      "text": "Dharmaṁ paramam ādikavi",
-      "wordByWordMeaning": {
-        "dharmaṁ": "duty or righteousness.",
-        "paramam": "the supreme.",
-        "ādikavi": "the original poet or sage."
-      },
-      "overallMeaning": "The supreme duty prescribed by the original sage is highlighted. This verse reflects on the eternal principles of righteousness."
-    },
-    {
-      "text": "Bhakti-yogam prabhur avāpyāsa",
-      "wordByWordMeaning": {
-        "bhakti-yogam": "the path of devotion.",
-        "prabhur": "the Lord.",
-        "avāpyāsa": "achieved or obtained."
-      },
-      "overallMeaning": "The path of devotion leads to the Lord. This verse underscores the significance of bhakti (devotion) in realizing the divine."
-    },
-    {
-      "text": "Sukhaṁ vā yadi vā duḥkham",
-      "wordByWordMeaning": {
-        "sukhaṁ": "happiness.",
-        "vā.": "or.",
-        "yadi": "if.",
-        "vā": "or.",
-        "duḥkham": "suffering."
-      },
-      "overallMeaning": "Whether in happiness or suffering, one should remain steadfast in devotion. This verse highlights the importance of maintaining spiritual focus regardless of life's circumstances."
-    },
-    {
-      "text": "Yatra te dharma-vidhāyakah",
-      "wordByWordMeaning": {
-        "yatra": "where.",
-        "te": "your.",
-        "dharma-vidhāyakah": "the one who prescribes duty."
-      },
-      "overallMeaning": "Wherever you, O Lord, prescribe duty, there is the essence of righteousness. This verse emphasizes the divine guidance in determining moral actions."
-    },
-    {
-      "text": "Tad bhāgavatam iha",
-      "wordByWordMeaning": {
-        "tad": "that.",
-        "bhāgavatam": "the scripture of the devotees.",
-        "iha": "here."
-      },
-      "overallMeaning": "That which is found in the Bhāgavatam is essential for devotees. This verse underscores the importance of the scripture in guiding spiritual lives."
-    },
-    {
-      "text": "Vishuddhaṁ bhakti-yogam",
-      "wordByWordMeaning": {
-        "vishuddhaṁ": "pure.",
-        "bhakti-yogam": "the path of devotion."
-      },
-      "overallMeaning": "The pure path of devotion is emphasized. This verse highlights the significance of sincerity in spiritual practice."
-    },
-    {
-      "text": "Yajñāṁ vā bhagavataṁ",
-      "wordByWordMeaning": {
-        "yajñāṁ": "sacrifices.",
-        "vā": "or.",
-        "bhagavataṁ": "the Lord."
-      },
-      "overallMeaning": "Sacrifices dedicated to the Lord are vital. This verse highlights the importance of selfless acts in devotion."
-    },
-    {
-      "text": "Sādhu-vṛttaṁ saṁsāraṁ",
-      "wordByWordMeaning": {
-        "sādhu-vṛttaṁ": "the behavior of the saintly.",
-        "saṁsāraṁ": "the material world."
-      },
-      "overallMeaning": "Saintly behavior should guide interactions in the material world. This verse encourages embodying spiritual values in daily life."
-    },
-    {
-      "text": "Saṁsāraṁ jīva-śarīraṁ",
-      "wordByWordMeaning": {
-        "saṁsāraṁ": "the cycle of birth and death.",
-        "jīva-śarīraṁ": "the body of the living being."
-      },
-      "overallMeaning": "The living being experiences the cycle of birth and death. This verse reflects on the transient nature of physical existence."
-    },
-    {
-      "text": "Na hi tebhyo vṛṇīte",
-      "wordByWordMeaning": {
-        "na": "not.",
-        "hi": "indeed.",
-        "tebhyo": "to them.",
-        "vṛṇīte": "choose or select."
-      },
-      "overallMeaning": "Indeed, it does not select among those who are committed. This verse suggests inclusivity in the spiritual pursuit presented in the text."
-    },
-    {
-      "text": "Yad anugrahāyāpi",
-      "wordByWordMeaning": {
-        "yat": "that which.",
-        "anugrahāyāpi": "for the sake of mercy or grace."
-      },
-      "overallMeaning": "That which is granted out of mercy. This verse highlights the importance of divine grace in spiritual advancement."
-    },
-    {
-      "text": "Tad bhāgavatam iha",
-      "wordByWordMeaning": {
-        "tad": "that.",
-        "bhāgavatam": "the scripture of the devotees.",
-        "iha": "here."
-      },
-      "overallMeaning": "That which is found in the Bhāgavatam is essential for devotees. This verse underscores the importance of the scripture in guiding spiritual lives."
-    },
-    {
-      "text": "Yatra te dharma-vidhāyakah",
-      "wordByWordMeaning": {
-        "yatra": "where.",
-        "te": "your.",
-        "dharma-vidhāyakah": "the one who prescribes duty."
-      },
-      "overallMeaning": "Wherever you, O Lord, prescribe duty, there is the essence of righteousness. This verse emphasizes the divine guidance in determining moral actions."
-    },
-    {
-      "text": "Vishuddhaṁ bhakti-yogam",
-      "wordByWordMeaning": {
-        "vishuddhaṁ": "pure.",
-        "bhakti-yogam": "the path of devotion."
-      },
-      "overallMeaning": "The pure path of devotion is emphasized. This verse highlights the significance of sincerity in spiritual practice."
-    },
-    {
-      "text": "Kṛṣṇaṁ bhagavataṁ bhāga",
-      "wordByWordMeaning": {
-        "kṛṣṇaṁ": "to Krishna.",
-        "bhagavataṁ": "the Lord.",
-        "bhāga": "portion or aspect."
-      },
-      "overallMeaning": "Krishna embodies the essential aspect of the divine. This verse reiterates Krishna's significance as the focal point of devotion."
-    },
-    {
-      "text": "Dharmaṁ paramam ādikavi",
-      "wordByWordMeaning": {
-        "dharmaṁ": "duty or righteousness.",
-        "paramam": "the supreme.",
-        "ādikavi": "the original poet or sage."
-      },
-      "overallMeaning": "The supreme duty prescribed by the original sage is highlighted. This verse reflects on the eternal principles of righteousness."
-    },
-    {
-      "text": "Yajñāṁ vā bhagavataṁ",
-      "wordByWordMeaning": {
-        "yajñāṁ": "sacrifices.",
-        "vā": "or.",
-        "bhagavataṁ": "the Lord."
-      },
-      "overallMeaning": "Sacrifices dedicated to the Lord are vital. This verse highlights the importance of selfless acts in devotion."
-    },
-    {
-      "text": "Yatra te dharma-vidhāyakah",
-      "wordByWordMeaning": {
-        "yatra": "where.",
-        "te": "your.",
-        "dharma-vidhāyakah": "the one who prescribes duty."
-      },
-      "overallMeaning": "Wherever you, O Lord, prescribe duty, there lies the essence of righteousness. This verse emphasizes the importance of divine guidance in moral conduct."
-    },
-    {
-      "text": "Vishuddhaṁ bhakti-yogam",
-      "wordByWordMeaning": {
-        "vishuddhaṁ": "pure.",
-        "bhakti-yogam": "the path of devotion."
-      },
-      "overallMeaning": "The pure path of devotion is emphasized. This verse underscores the significance of sincerity and purity in spiritual practice."
-    },
-    {
-      "text": "Kṛṣṇaṁ bhagavataṁ bhāga",
-      "wordByWordMeaning": {
-        "kṛṣṇaṁ": "to Krishna.",
-        "bhagavataṁ": "the Lord.",
-        "bhāga": "portion or aspect."
-      },
-      "overallMeaning": "Krishna embodies the essential aspect of the divine. This verse reiterates the central role of Krishna in devotion."
-    },
-    {
-      "text": "Dharmaṁ paramam ādikavi",
-      "wordByWordMeaning": {
-        "dharmaṁ": "duty or righteousness.",
-        "paramam": "the supreme.",
-        "ādikavi": "the original poet or sage."
-      },
-      "overallMeaning": "The supreme duty as prescribed by the original sage is highlighted. This verse reflects the eternal principles of righteousness."
-    },
-    {
-      "text": "Yajñāṁ vā bhagavataṁ",
-      "wordByWordMeaning": {
-        "yajñāṁ": "sacrifices.",
-        "vā": "or.",
-        "bhagavataṁ": "the Lord."
-      },
-      "overallMeaning": "Sacrifices dedicated to the Lord are essential. This verse emphasizes the importance of selfless acts in spiritual practice."
-    },
-    {
-      "text": "Saṁsāraṁ pāraṁ pṛthak",
-      "wordByWordMeaning": {
-        "saṁsāraṁ": "the cycle of birth and death.",
-        "pāraṁ": "transcendental.",
-        "pṛthak": "separate."
-      },
-      "overallMeaning": "Transcendental knowledge separates one from the cycle of birth and death. This verse emphasizes the liberating power of spiritual wisdom."
-    },
-    {
-      "text": "Yathā gāyanti bhaktāḥ",
-      "wordByWordMeaning": {
-        "yathā": "as.",
-        "gāyanti": "they sing.",
-        "bhaktāḥ": "the devotees."
-      },
-      "overallMeaning": "As the devotees sing, they express their devotion. This verse highlights the role of devotion and chanting in spiritual practice."
-    },
-    {
-      "text": "Sādhu-vṛttaṁ saṁsāraṁ",
-      "wordByWordMeaning": {
-        "sādhu-vṛttaṁ": "the behavior of the saintly.",
-        "saṁsāraṁ": "the material world."
-      },
-      "overallMeaning": "Saintly behavior should guide actions in the material world. This verse encourages embodying spiritual values in daily life."
-    },
-    {
-      "text": "Na hi tebhyo vṛṇīte",
-      "wordByWordMeaning": {
-        "na": "not.",
-        "hi": "indeed.",
-        "tebhyo": "to them.",
-        "vṛṇīte": "choose or select."
-      },
-      "overallMeaning": "Indeed, it does not select among those who are committed. This verse suggests inclusivity in the spiritual pursuit presented in the text."
-    },
-    {
-      "text": "Yad anugrahāyāpi",
-      "wordByWordMeaning": {
-        "yat": "that which.",
-        "anugrahāyāpi": "for the sake of mercy or grace."
-      },
-      "overallMeaning": "That which is granted out of mercy. This verse highlights the importance of divine grace in spiritual advancement."
-    },
-    {
-      "text": "Tad bhāgavatam iha",
-      "wordByWordMeaning": {
-        "tad": "that.",
-        "bhāgavatam": "the scripture of the devotees.",
-        "iha": "here."
-      },
-      "overallMeaning": "That which is found in the Bhāgavatam is essential for devotees. This verse underscores the importance of the scripture in guiding spiritual lives."
-    },
-    {
-      "text": "Yatra te dharma-vidhāyakah",
-      "wordByWordMeaning": {
-        "yatra": "where.",
-        "te": "your.",
-        "dharma-vidhāyakah": "the one who prescribes duty."
-      },
-      "overallMeaning": "Wherever you, O Lord, prescribe duty, there lies the essence of righteousness. This verse emphasizes the divine guidance in moral conduct."
-    },
-    {
-      "text": "Vishuddhaṁ bhakti-yogam",
-      "wordByWordMeaning": {
-        "vishuddhaṁ": "pure.",
-        "bhakti-yogam": "the path of devotion."
-      },
-      "overallMeaning": "The pure path of devotion is emphasized. This verse underscores the significance of sincerity and purity in spiritual practice."
-    },
-    {
-      "text": "Kṛṣṇaṁ bhagavataṁ bhāga",
-      "wordByWordMeaning": {
-        "kṛṣṇaṁ": "to Krishna.",
-        "bhagavataṁ": "the Lord.",
-        "bhāga": "portion or aspect."
-      },
-      "overallMeaning": "Krishna embodies the essential aspect of the divine. This verse reiterates Krishna's significance as the focal point of devotion."
-    },
-    {
-      "text": "Dharmaṁ paramam ādikavi",
-      "wordByWordMeaning": {
-        "dharmaṁ": "duty or righteousness.",
-        "paramam": "the supreme.",
-        "ādikavi": "the original poet or sage."
-      },
-      "overallMeaning": "The supreme duty prescribed by the original sage is highlighted. This verse reflects on the eternal principles of righteousness."
-    },
-    {
-      "text": "Yajñāṁ vā bhagavataṁ",
-      "wordByWordMeaning": {
-        "yajñāṁ": "sacrifices.",
-        "vā": "or.",
-        "bhagavataṁ": "the Lord."
-      },
-      "overallMeaning": "Sacrifices dedicated to the Lord are essential. This verse emphasizes the importance of selfless acts in spiritual practice."
-    },
-    {
-      "text": "Saṁsāraṁ pāraṁ pṛthak",
-      "wordByWordMeaning": {
-        "saṁsāraṁ": "the cycle of birth and death.",
-        "pāraṁ": "transcendental.",
-        "pṛthak": "separate."
-      },
-      "overallMeaning": "Transcendental knowledge separates one from the cycle of birth and death. This verse emphasizes the liberating power of spiritual wisdom."
-    },
-    {
-      "text": "Yathā gāyanti bhaktāḥ",
-      "wordByWordMeaning": {
-        "yathā": "as.",
-        "gāyanti": "they sing.",
-        "bhaktāḥ": "the devotees."
-      },
-      "overallMeaning": "As the devotees sing, they express their devotion. This verse highlights the role of devotion and chanting in spiritual practice."
-    },
-    {
-      "text": "Sādhu-vṛttaṁ saṁsāraṁ",
-      "wordByWordMeaning": {
-        "sādhu-vṛttaṁ": "the behavior of the saintly.",
-        "saṁsāraṁ": "the material world."
-      },
-      "overallMeaning": "Saintly behavior should guide actions in the material world. This verse encourages embodying spiritual values in daily life."
-    },
-    {
-      "text": "Na hi tebhyo vṛṇīte",
-      "wordByWordMeaning": {
-        "na": "not.",
-        "hi": "indeed.",
-        "tebhyo": "to them.",
-        "vṛṇīte": "choose or select."
-      },
-      "overallMeaning": "Indeed, it does not select among those who are committed. This verse suggests inclusivity in the spiritual pursuit presented in the text."
-    },
-    {
-      "text": "Brahmānandaṁ samāhitaḥ",
-      "wordByWordMeaning": {
-        "brahmānandaṁ": "the bliss of the Absolute.",
-        "samāhitaḥ": "fully absorbed or focused."
-      },
-      "overallMeaning": "One who is fully absorbed in the bliss of the Absolute. This verse emphasizes the state of transcendental consciousness attained through devotion."
-    },
-    {
-      "text": "Tad bhāgavatam iha",
-      "wordByWordMeaning": {
-        "tad": "that.",
-        "bhāgavatam": "the scripture of the devotees.",
-        "iha": "here."
-      },
-      "overallMeaning": "That which is found in the Bhāgavatam is essential for devotees. This verse underscores the importance of the scripture in guiding spiritual lives."
-    },
-    {
-      "text": "Yatra te dharma-vidhāyakah",
-      "wordByWordMeaning": {
-        "yatra": "where.",
-        "te": "your.",
-        "dharma-vidhāyakah": "the one who prescribes duty."
-      },
-      "overallMeaning": "Wherever you, O Lord, prescribe duty, there lies the essence of righteousness. This verse emphasizes the divine guidance in moral conduct."
-    },
-    {
-      "text": "Vishuddhaṁ bhakti-yogam",
-      "wordByWordMeaning": {
-        "vishuddhaṁ": "pure.",
-        "bhakti-yogam": "the path of devotion."
-      },
-      "overallMeaning": "The pure path of devotion is emphasized. This verse underscores the significance of sincerity and purity in spiritual practice."
-    },
-    {
-      "text": "Kṛṣṇaṁ bhagavataṁ bhāga",
-      "wordByWordMeaning": {
-        "kṛṣṇaṁ": "to Krishna.",
-        "bhagavataṁ": "the Lord.",
-        "bhāga": "portion or aspect."
-      },
-      "overallMeaning": "Krishna embodies the essential aspect of the divine. This verse reiterates Krishna's significance as the focal point of devotion."
-    },
-    {
-      "text": "Dharmaṁ paramam ādikavi",
-      "wordByWordMeaning": {
-        "dharmaṁ": "duty or righteousness.",
-        "paramam": "the supreme.",
-        "ādikavi": "the original poet or sage."
-      },
-      "overallMeaning": "The supreme duty prescribed by the original sage is highlighted. This verse reflects on the eternal principles of righteousness."
-    },
-    {
-      "text": "Yajñāṁ vā bhagavataṁ",
-      "wordByWordMeaning": {
-        "yajñāṁ": "sacrifices.",
-        "vā": "or.",
-        "bhagavataṁ": "the Lord."
-      },
-      "overallMeaning": "Sacrifices dedicated to the Lord are essential. This verse emphasizes the importance of selfless acts in spiritual practice."
-    },
-    {
-      "text": "Saṁsāraṁ pāraṁ pṛthak",
-      "wordByWordMeaning": {
-        "saṁsāraṁ": "the cycle of birth and death.",
-        "pāraṁ": "transcendental.",
-        "pṛthak": "separate."
-      },
-      "overallMeaning": "Transcendental knowledge separates one from the cycle of birth and death. This verse emphasizes the liberating power of spiritual wisdom."
-    },
-    {
-      "text": "Yathā gāyanti bhaktāḥ",
-      "wordByWordMeaning": {
-        "yathā": "as.",
-        "gāyanti": "they sing.",
-        "bhaktāḥ": "the devotees."
-      },
-      "overallMeaning": "As the devotees sing, they express their devotion. This verse highlights the role of devotion and chanting in spiritual practice."
-    },
-    {
-      "text": "Sādhu-vṛttaṁ saṁsāraṁ",
-      "wordByWordMeaning": {
-        "sādhu-vṛttaṁ": "the behavior of the saintly.",
-        "saṁsāraṁ": "the material world."
-      },
-      "overallMeaning": "Saintly behavior should guide actions in the material world. This verse encourages embodying spiritual values in daily life."
-    }
+      "overallMeaning": "Thus ends the first chapter of the first canto in the Naimiṣeya narrative of the great Purāṇa, Śrīmad Bhāgavatam."
+    }                       
+                
   ]
 }

@@ -1,1249 +1,793 @@
 {
     "id": "Mahabharat Slokas",
-    "name": "Mahabharat Slokas",
+    "name": "Bhagwat Geeta Chapter 1",
     "questions": [
       {
-        "text": "Om. Narayanam namaskrityanaram caiva narottamam, Devim sarasvatim vyasam tato jayam udhiraye.",
+        "text": "Dhṛtarāṣṭra uvāca: dharma-kṣetre kuru-kṣetre samavetā yuyutsavaḥ, māmakāḥ pāṇḍavāś caiva kim akurvata sañjaya.",
         "wordByWordMeaning": {
-          "om": "the sacred sound; an invocation representing the essence of the universe.",
-          "narayanam": "to Narayana (Vishnu), the preserver of the universe.",
-          "namaskrity": "after bowing or paying homage.",
-          "naram": "to Nara (human beings).",
+          "dhṛtarāṣṭraḥ": "King Dhṛtarāṣṭra.",
+          "uvāca": "said.",
+          "dharma-kṣetre": "in the place of pilgrimage.",
+          "kuru-kṣetre": "in the place named Kurukṣetra.",
+          "samavetāḥ": "assembled.",
+          "yuyutsavaḥ": "desiring to fight.",
+          "māmakāḥ": "my party (sons).",
+          "pāṇḍavāḥ": "the sons of Pāṇḍu.",
           "ca": "and.",
           "eva": "certainly.",
-          "narottamam": "to the best among men (Arjuna).",
-          "devi": "to the goddess.",
-          "sarasvatim": "Sarasvati (the goddess of knowledge).",
-          "vyasam": "Vyasa (the sage who compiled the Mahabharata).",
-          "tato": "then.",
-          "jayam": "victory.",
-          "udhiraye": "I seek."
+          "kim": "what.",
+          "akurvata": "did they do.",
+          "sañjaya": "O Sañjaya."
         },
-        "overallMeaning": "Om. After bowing down to Narayana, to Nara, to the best of men, and to the goddess Sarasvati, I seek victory. This verse establishes a tone of reverence and humility, invoking divine guidance for the narrative that follows."
+        "translation": "Dhṛtarāṣṭra said: O Sañjaya, after assembling in the place of pilgrimage at Kurukṣetra, what did my sons and the sons of Pāṇḍu do, being desirous to fight?"
       },
       {
-        "text": "Vyaasaaya ca mahaabhaagae, naaraayanaya, namah, sa aadi kavi, bhasyeyshtaan, samishthama.",
+        "text": "sañjaya uvāca: dṛṣṭvā tu pāṇḍavānīkaṁ vyūḍhaṁ duryodhanas tadā, ācāryam upasaṅgamya rājā vacanam abravīt.",
         "wordByWordMeaning": {
-          "vyaasaaya": "to Vyasa (the sage who compiled the Mahabharata),",
+          "sañjayaḥ": "Sañjaya.",
+          "uvāca": "said.",
+          "dṛṣṭvā": "after seeing.",
+          "tu": "but.",
+          "pāṇḍavānīkam": "the soldiers of the Pāṇḍavas.",
+          "vyūḍham": "arranged in military formation.",
+          "duryodhanaḥ": "King Duryodhana.",
+          "tadā": "at that time.",
+          "ācāryam": "the teacher.",
+          "upasaṅgamya": "approaching nearby.",
+          "rājā": "the king.",
+          "vacanam": "words.",
+          "abravīt": "spoke."
+        },
+        "translation": "Sañjaya said: O King, after looking over the army gathered by the sons of Pāṇḍu, King Duryodhana went to his teacher and began to speak the following words."
+      },
+      {
+        "text": "paśyaitāṁ pāṇḍu-putrāṇām ācārya mahatīṁ camūm, vyūḍhāṁ drupada-putreṇa tava śiṣyeṇa dhīmatā.",
+        "wordByWordMeaning": {
+          "paśya": "behold.",
+          "etām": "this.",
+          "pāṇḍu-putrāṇām": "of the sons of Pāṇḍu.",
+          "ācārya": "O teacher.",
+          "mahatīm": "great.",
+          "camūm": "military force.",
+          "vyūḍhām": "arranged.",
+          "drupada-putreṇa": "by the son of Drupada.",
+          "tava": "your.",
+          "śiṣyeṇa": "disciple.",
+          "dhīmatā": "very intelligent."
+        },
+        "translation": "O my teacher, behold the great army of the sons of Pāṇḍu, so expertly arranged by your intelligent disciple, the son of Drupada."
+      },
+      {
+        "text": "atra śūrā maheṣvāsā bhīmārjuna-samā yudhi, yuyudhāno virāṭaś ca drupadaś ca mahā-rathaḥ.",
+        "wordByWordMeaning": {
+          "atra": "here.",
+          "śūrāḥ": "heroes.",
+          "maheṣvāsāḥ": "mighty bowmen.",
+          "bhīma-arjuna": "Bhīma and Arjuna.",
+          "samāḥ": "equal.",
+          "yudhi": "in the fight.",
+          "yuyudhānaḥ": "Yuyudhāna.",
+          "virāṭaḥ": "Virāṭa.",
+          "ca": "also.",
+          "drupadaḥ": "Drupada.",
+          "ca ": "also.",
+          "mahā-rathaḥ": "great fighter."
+        },
+        "translation": "Here in this army there are many heroic bowmen equal in fighting to Bhīma and Arjuna; there are also great fighters like Yuyudhāna, Virāṭa, and Drupada."
+      },
+      {
+        "text": "dhṛṣṭaketuś cekitānaḥ kāśirājaś ca vīryavān, purujit kuntibhojaś ca śaibyaś ca nara-puṅgavaḥ.",
+        "wordByWordMeaning": {
+          "dhṛṣṭaketuḥ": "Dhṛṣṭaketu.",
+          "cekitānaḥ": "Cekitāna.",
+          "kāśirājaḥ": "Kaśirāja.",
+          "ca": "also.",
+          "vīryavān": "very powerful.",
+          "purujit": "Purujit.",
+          "kuntibhojaḥ": "Kuntibhoja.",
+          "ca ": "and.",
+          "śaibyaḥ": "Śaibya.",
+          " ca": "and.",
+          "nara-puṅgavaḥ": "heroes in human society."
+        },
+        "translation": "There are also great, heroic, powerful fighters like Dhṛṣṭaketu, Cekitāna, Kāśirāja, Purujit, Kuntibhoja, and Śaibya."
+      },
+      {
+        "text": "yudhāmanyuś ca vikrānta uttamaujāś ca vīryavān, saubhadro draupadeyāś ca sarva eva mahā-rathāḥ.",
+        "wordByWordMeaning": {
+          "yudhāmanyuḥ": "Yudhāmanyu.",
           "ca": "and.",
-          "mahaabhaagae": "to the great sage.",
-          "naaraayanaya": "to Narayana.",
-          "namah": "salutations or bowing.",
-          "sa": "he (Vyasa).",
-          "aadi": "the beginning.",
-          "kavi": "the poet or sage.",
-          "bhasyeyshtaan": "who composed.",
-          "samishthama": "the entirety (of the epic)."
-        },
-        "overallMeaning": "Salutations to Vyasa, the great sage, and to Narayana, the beginning poet who composed this epic. This verse acknowledges the divine inspiration and the sage's role in narrating the Mahabharata."
-      },
-      {
-        "text": "Yasmin vishnuh puraanah, bhagavata iti bhagavata, srishteh srashtaaram.",
-        "wordByWordMeaning": {
-          "yasmin": "in whom.",
-          "vishnuh": "Vishnu (the preserver).",
-          "puraanah": "the ancient texts.",
-          "bhagavata": "the Lord.",
-          "iti": "thus.",
-          "srishteh": "of creation.",
-          "srashtaaram": "the creator."
-        },
-        "overallMeaning": "In whom resides Vishnu, the ancient Lord of creation. This verse highlights the connection between divine power and creation, setting the stage for the epic's exploration of cosmic and moral themes."
-      },
-      {
-        "text": "Dharmakshetra kurukshetra samaveta yuyutsavah, mamakah pandavaschaiva kim akurvata sanjaya.",
-        "wordByWordMeaning": {
-          "dharmakshetra": "the field of righteousness.",
-          "kurukshetra": "Kurukshetra (the battlefield).",
-          "samaveta": "assembled.",
-          "yuyutsavah": "desiring to fight.",
-          "mamakah": "my sons (the Kauravas).",
-          "pandavascha": "and the Pandavas.",
+          "vikrāntaḥ": "mighty.",
+          "uttamaujāḥ": "Uttamaujā.",
+          "ca": "and.",
+          "vīryavān": "very powerful.",
+          "saubhadraḥ": "the son of Subhadrā.",
+          "draupadeyāḥ": "the sons of Draupadī.",
+          "ca": "and.",
+          "sarve": "all.",
           "eva": "certainly.",
-          "kim": "what.",
-          "akurvata": "did (they) do.",
-          "sanjaya": "O Sanjaya (the narrator)."
+          "mahā-rathāḥ": "great chariot fighters."
         },
-        "overallMeaning": "In the sacred land of Kurukshetra, where the righteous gather to fight, what did my sons and the Pandavas do, O Sanjaya? This verse sets the stage for the epic battle and the moral dilemmas that arise."
+        "translation": "There are the mighty Yudhāmanyu, the very powerful Uttamaujā, the son of Subhadrā, and the sons of Draupadī. All these warriors are great chariot fighters."
       },
       {
-        "text": "Sanjaya uvaca: Drishtva tu pandavani kamukah kuru kshitre, adharma muktah tan vyashta vishte.",
+        "text": "asmākaṁ tu viśiṣṭā ye tān nibodha dvijottama, nāyakā mama sainyasya saṁjñārthaṁ tān bravīmi te.",
         "wordByWordMeaning": {
-          "sanjaya": "Sanjaya said.",
-          "uvaca": "spoke.",
-          "drishtva": "having seen.",
+          "asmākam": "our.",
           "tu": "but.",
-          "pandavani": "the Pandavas.",
-          "kamukah": "having become weak.",
-          "kurukshetra": "in Kurukshetra.",
-          "adharma": "unrighteousness.",
-          "muktah": "liberated.",
-          "tan": "them.",
-          "vyashta": "overwhelmed.",
-          "vishte": "in vision."
+          "viśiṣṭāḥ": "especially powerful.",
+          "ye": "those.",
+          "tān": "them.",
+          "nibodha": "just take note, be informed.",
+          "dvijottama": "O best of the brāhmaṇas.",
+          "nāyakāḥ": "captains.",
+          "mama": "my.",
+          "sainyasya": "of the soldiers.",
+          "saṁjñā-artham": "for information.",
+          " tān": "them.",
+          "bravīmi": "I am speaking.",
+          "te": "to you."
         },
-        "overallMeaning": "Sanjaya said: Seeing the Pandavas assembled in Kurukshetra, I was overwhelmed by the sight of unrighteousness. This verse reflects Sanjaya's perspective as he narrates the events of the battlefield."
+        "translation": "O best of the brāhmaṇas, for your information, let me tell you about the captains who are especially qualified to lead my military force."
       },
       {
-        "text": "Atha: api sakhe dharmya: aashraya vismrtah, tvaya putra pitaram sukham.",
+        "text": "bhavān bhīṣmaś ca karṇaś ca kṛpaś ca samitiñjayaḥ, aśvatthāmā vikarṇaś ca saumadattis tathaiva ca.",
         "wordByWordMeaning": {
-          "atha": "then.",
-          "api": "also.",
-          "sakhe": "O friend.",
-          "dharmya": "of righteousness.",
-          "aashraya": "refuge.",
-          "vismrtah": "forgotten.",
-          "tvaya": "by you.",
-          "putra": "sons.",
-          "pitaram": "father.",
-          "sukham": "happiness."
+          "bhavān": "yourself.",
+          "bhīṣmaḥ": "Grandfather Bhīṣma.",
+          "ca": "also.",
+          "karṇaḥ": "Karṇa.",
+          "ca": "and.",
+          "kṛpaḥ": "Kṛpa.",
+          "ca": "and.",
+          "samitiñjayaḥ": "always victorious in battle.",
+          "aśvatthāmā": "Aśvatthāmā.",
+          "vikarṇaḥ": "Vikarṇa.",
+          " ca": "as well as.",
+          "saumadattiḥ": "the son of Somadatta.",
+          "tathā": "and as.",
+          "eva": "certainly.",
+          "ca ": "and."
         },
-        "overallMeaning": "Then, O friend, in the pursuit of righteousness, it seems you have forgotten the happiness of your sons and father. This verse indicates the emotional turmoil arising from familial bonds amidst conflict."
+        "translation": "There are personalities like yourself, Bhīṣma, Karṇa, Kṛpa, Aśvatthāmā, Vikarṇa, and the son of Somadatta called Bhuriśravā, who are always victorious in battle."
       },
       {
-        "text": "Kim nu tanayati samyugam yudham, adharma adharmena vyashkurvi.",
+        "text": "anye ca bahavaḥ śūrā mad-arthe tyakta-jīvitāḥ, nānā-śastra-praharaṇāḥ sarve yuddha-viśāradāḥ.",
         "wordByWordMeaning": {
-          "kim": "what.",
-          "nu": "indeed.",
-          "tanayati": "the sons.",
-          "samyugam": "the battle.",
-          "yudham": "of war.",
-          "adharma": "unrighteousness.",
-          "adharmena": "by unrighteousness.",
-          "vyashkurvi": "is being executed."
+          "anye": "many others.",
+          "ca": "also.",
+          "bahavaḥ": "in great numbers.",
+          "śūrāḥ": "heroes.",
+          "mad-arthe": "for my sake.",
+          "tyakta-jīvitāḥ": "prepared to risk life.",
+          "nānā": "many.",
+          "śastra": "weapons.",
+          "praharaṇāḥ": "equipped with.",
+          "sarve": "all of them.",
+          "yuddha": "battle.",
+          "viśāradāḥ": "experienced in military science."
         },
-        "overallMeaning": "What indeed is happening in this battle of war, executed by unrighteousness? This verse raises questions about the nature of the conflict and its moral implications."
+        "translation": "There are many other heroes who are prepared to lay down their lives for my sake. All of them are well equipped with different kinds of weapons, and all are experienced in military science."
       },
       {
-        "text": "Esha dharma vyaktrah, yatha dharmena yujyam.",
+        "text": "aparyāptaṁ tad asmākaṁ balaṁ bhīṣmābhirakṣitam, paryāptaṁ tv idam eteṣāṁ balaṁ bhīmābhirakṣitam.",
         "wordByWordMeaning": {
-          "esha": "this.",
-          "dharma": "righteousness.",
-          "vyaktrah": "is manifested.",
-          "yatha": "how.",
-          "dharmena": "by righteousness.",
-          "yujyam": "is to be united."
-        },
-        "overallMeaning": "This righteousness manifests how one should be united by virtue. This verse emphasizes the importance of righteousness in guiding actions."
-      },
-      {
-        "text": "Sanjaya uvaca: Aakarshakani vaishnavani, yudhaya pakshagaha dharma.",
-        "wordByWordMeaning": {
-          "sanjaya": "Sanjaya said.",
-          "uvaca": "spoke.",
-          "aakarshakani": "the attractive.",
-          "vaishnavani": "of the Vaishnavas.",
-          "yudhaya": "for battle.",
-          "pakshagaha": "the side.",
-          "dharma": "righteousness."
-        },
-        "overallMeaning": "Sanjaya said: The attractive qualities of the Vaishnavas gather for battle on the side of righteousness. This verse highlights the divine qualities that align with virtue."
-      },
-      {
-        "text": "Yudhishthira uvaca: Kim yutham yudhishthira sarthakam yudham.",
-        "wordByWordMeaning": {
-          "yudhishthira": "Yudhishthira said.",
-          "uvaca": "spoke.",
-          "kim": "what.",
-          "yutham": "battle.",
-          "yudhishthira.": "Yudhishthira.",
-          "sarthakam": "significant.",
-          "yudham": "war."
-        },
-        "overallMeaning": "Yudhishthira said: What is the significance of this battle, O Yudhishthira? This verse reflects the contemplation on the purpose and impact of the impending war."
-      },
-      {
-        "text": "Sanjaya uvaca: Dhrishtva tu pandavani, kshatradharma radhika, svasthani prajna na kim.",
-        "wordByWordMeaning": {
-          "sanjaya": "Sanjaya said.",
-          "uvaca": "spoke.",
-          "dhrishtva": "having seen.",
+          "aparyāptam": "immeasurable.",
+          "tat": "that.",
+          "asmākam": "of ours.",
+          "balam": "strength.",
+          "bhīṣma": "by Grandfather Bhīṣma.",
+          "abhirakṣitam": "perfectly protected.",
+          "paryāptam": "limited.",
           "tu": "but.",
-          "pandavani": "the Pandavas.",
-          "kshatradharma": "the duty of the warrior.",
-          "radhika": "noble.",
-          "svasthani": "at peace.",
-          "prajna": "wisdom.",
-          "na": "not.",
-          "kim": "what."
+          "idam": "all these.",
+          "eteṣām": "of the Pāṇḍavas.",
+          "balam ": "strength.",
+          "bhīma": "by Bhīma.",
+          "abhirakṣitam ": "carefully protected."
         },
-        "overallMeaning": "Sanjaya said: Having seen the noble Pandavas, what wisdom is there for a warrior at peace? This verse contemplates the moral dilemmas faced by warriors in battle."
+        "translation": "Our strength is immeasurable, and we are perfectly protected by Grandfather Bhīṣma, whereas the strength of the Pāṇḍavas, carefully protected by Bhīma, is limited."
       },
       {
-        "text": "Dharmaraja uvaca: Sa hi me dharma, prashnam, bhavataha sya kshudrah.",
+        "text": "ayaneṣu ca sarveṣu yathā-bhāgam avasthitāḥ, bhīṣmam evābhirakṣantu bhavantaḥ sarva eva hi.",
         "wordByWordMeaning": {
-          "dharmaraja": "Dharmaraja (Yudhishthira) said.",
-          "uvaca": "spoke.",
-          "sa": "he.",
-          "hi": "indeed.",
-          "me": "to me.",
-          "dharma": "righteousness.",
-          "prashnam": "the question.",
-          "bhavataha": "of you.",
-          "sya": "is.",
-          "kshudrah": "insignificant."
+          "ayaneṣu": "in the strategic points.",
+          "ca": "also.",
+          "sarveṣu": "everywhere.",
+          "yathā-bhāgam": "as they are differently arranged.",
+          "avasthitāḥ": "situated.",
+          "bhīṣmam": "unto Grandfather Bhīṣma.",
+          "eva": "certainly.",
+          "abhirakṣantu": "support may be given.",
+          "bhavantaḥ": "all of you.",
+          "sarve": "respectively.",
+          "eva ": "certainly.",
+          "hi": "and exactly."
         },
-        "overallMeaning": "Dharmaraja said: Indeed, your question about righteousness is insignificant to me. This reflects Yudhishthira's struggle with the weight of moral choices."
+        "translation": "Now all of you must give full support to Grandfather Bhīṣma, standing at your respective strategic points in the phalanx of the army."
       },
       {
-        "text": "Sanjaya uvaca: Dhrishtva tu kshatriya, samyak, vyashta, dharmadhikeshva.",
+        "text": "tasya sañjanayan harṣaṁ, kuru-vṛddhaḥ pitāmahaḥ, siṁha-nādaṁ vinadyoccaiḥ, śaṅkhaṁ dadhmau pratāpavān.",
         "wordByWordMeaning": {
-          "sanjaya": "Sanjaya said.",
-          "uvaca": "spoke.",
-          "dhrishtva": "having seen.",
-          "tu": "but.",
-          "kshatriya": "the Kshatriyas.",
-          "samyak": "fully.",
-          "vyashta": "overwhelmed.",
-          "dharmadhikeshva": "by the duty of righteousness."
+          "tasya": "his.",
+          "sañjanayan": "increasing.",
+          "harṣam": "cheerfulness.",
+          "kuru-vṛddhaḥ": "the grandsire of the Kuru dynasty (Bhīṣma).",
+          "pitāmahaḥ": "the grandfather.",
+          "siṁha-nādam": "roaring sound, like a lion.",
+          "vinadya": "vibrating.",
+          "uccaiḥ": "very loudly.",
+          "śaṅkham": "conchshell.",
+          "dadhmau": "blew.",
+          "pratāpavān": "the valiant."
         },
-        "overallMeaning": "Sanjaya said: Having seen the Kshatriyas fully overwhelmed by the duty of righteousness. This verse highlights the inner conflict faced by warriors."
+        "translation": "Then Bhīṣma, the great valiant grandsire of the Kuru dynasty, the grandfather of the fighters, blew his conchshell very loudly like the sound of a lion, giving Duryodhana joy."
       },
       {
-        "text": "Yudhishthira uvaca: Kimekam kshatriya, prabhavati kshatriyam.",
+        "text": "tataḥ śaṅkhāś ca bheryaś ca, paṇavānaka-gomukhāḥ, sahasaivābhyahanyanta, sa śabdas tumulo 'bhavat.",
         "wordByWordMeaning": {
-          "yudhishthira": "Yudhishthira said.",
-          "uvaca": "spoke.",
-          "kimekam": "what is one.",
-          "kshatriya": "Kshatriya.",
-          "prabhavati": "is powerful."
+          "tataḥ": "thereafter.",
+          "śaṅkhāḥ": "conchshells.",
+          "ca": "also.",
+          "bheryaḥ": "bugles.",
+          "paṇava-ānaka": "trumpets and drums.",
+          "go-mukhāḥ": "horns.",
+          "sahasā": "all of a sudden.",
+          "eva": "certainly.",
+          "abhyahanyanta": "being simultaneously sounded.",
+          "saḥ": "that.",
+          "śabdaḥ": "combined sound.",
+          "tumulaḥ": "tumultuous.",
+          "abhavat": "became."
         },
-        "overallMeaning": "Yudhishthira said: What is the essence that empowers a Kshatriya? This verse seeks to understand the core strength of a warrior."
+        "translation": "After that, the conchshells, bugles, trumpets, drums, and horns were all suddenly sounded, and the combined sound was tumultuous."
       },
       {
-        "text": "Sanjaya uvaca: Kshatriyam dharmah, na tu priyam, dharma.",
+        "text": "tataḥ śvetair hayair yukte, mahati syandane sthitau, mādhavaḥ pāṇḍavaś caiva, divyau śaṅkhau pradadhmatuḥ.",
         "wordByWordMeaning": {
-          "sanjaya": "Sanjaya said.",
-          "uvaca": "spoke.",
-          "kshatriyam": "Kshatriya.",
-          "dharmah": "is righteousness.",
-          "na": "not.",
-          "tu": "but.",
-          "priyam": "pleasing."
+          "tataḥ": "thereafter.",
+          "śvetaiḥ": "by white.",
+          "hayaiḥ": "horses.",
+          "yukte": "being yoked with.",
+          "mahati": "in the great.",
+          "syandane": "chariot.",
+          "sthitau": "so situated.",
+          "mādhavaḥ": "Krishna (the husband of the goddess of fortune).",
+          "pāṇḍavaḥ": "Arjuna (the son of Pandu).",
+          "ca": "also.",
+          "eva": "certainly.",
+          "divyau": "transcendental.",
+          "śaṅkhau": "conchshells.",
+          "pradadhmatuḥ": "sounded."
         },
-        "overallMeaning": "Sanjaya said: Righteousness is the essence of a Kshatriya, not merely what is pleasing. This emphasizes the importance of duty over personal desires."
+        "translation": "On the other side, both Lord Krishna and Arjuna, stationed on a great chariot drawn by white horses, sounded their transcendental conchshells."
       },
       {
-        "text": "Yudhishthira uvaca: Kshatriyah kim pashyati, yudham dharman.",
+        "text": "pāñcajanyaṁ hṛṣīkeśo, devadattaṁ dhanañjayaḥ, pauṇḍraṁ dadhmau mahā-śaṅkhaṁ, bhīma-karmā vṛkodaraḥ.",
         "wordByWordMeaning": {
-          "yudhishthira": "Yudhishthira said.",
-          "uvaca": "spoke.",
-          "kshatriyah": "the Kshatriya.",
-          "kim": "what.",
-          "pashyati": "sees.",
-          "yudham": "the battle.",
-          "dharman": "of righteousness."
+          "pāñcajanyam": "the conchshell named Pāñcajanya.",
+          "hṛṣīkeśaḥ": "Hṛṣīkeśa (Krishna, the Lord who directs the senses of the devotees).",
+          "devadattam": "the conchshell named Devadatta.",
+          "dhanañjayaḥ": "Dhanañjaya (Arjuna, the winner of wealth).",
+          "pauṇḍram": "the conch named Pauṇḍram.",
+          "dadhmau": "blew.",
+          "mahā-śaṅkham": "the terrific conchshell.",
+          "bhīma-karmā": "one who performs Herculean tasks.",
+          "vṛkodaraḥ": "the voracious eater (Bhīma)."
         },
-        "overallMeaning": "Yudhishthira said: What does the Kshatriya see in the battle of righteousness? This verse reflects on the perspective of a warrior in the face of conflict."
+        "translation": "Then, Lord Krishna blew His conchshell, called Pāñcajanya; Arjuna blew his, the Devadatta; and Bhīma, the voracious eater and performer of Herculean tasks, blew his terrific conchshell called Pauṇḍram."
+      },
+      {        
+        "text": "anantavijayaṁ rājā, kuntī-putro yudhiṣṭhiraḥ, nakulaḥ sahadevaś ca, sughoṣa-maṇipuṣpakau, kāśyaś ca parameṣvāsaḥ, śikhaṇḍī ca mahā-rathaḥ, dhṛṣṭadyumno virāṭaś ca, sātyakiś cāparājitaḥ, drupado draupadeyāś ca, sarvaśaḥ pṛthivī-pate, saubhadraś ca mahā-bāhuḥ, śaṅkhān dadhmuḥ pṛthak pṛthak.",
+        "wordByWordMeaning": {
+          "anantavijayam": "the conch named Anantavijaya.",
+          "rājā": "the king.",
+          "kuntī-putraḥ": "the son of Kuntī.",
+          "yudhiṣṭhiraḥ": "Yudhiṣṭhira.",
+          "nakulaḥ": "Nakula.",
+          "sahadevaḥ": "Sahadeva.",
+          "ca": "and.",
+          "sughoṣa-maṇipuṣpakau": "the conches named Sughoṣa and Maṇipuṣpaka.",
+          "kāśyaḥ": "the King of Kāśī (Vārāṇasī).",
+          "parameṣvāsaḥ": "the great archer.",
+          "śikhaṇḍī": "Śikhaṇḍī.",
+          "mahā-rathaḥ": "one who can fight alone against thousands.",
+          "dhṛṣṭadyumnaḥ": "Dhṛṣṭadyumna (the son of King Drupada).",
+          "virāṭaḥ": "Virāṭa (the prince who gave shelter to the Pāṇḍavas while they were in disguise).",
+          "sātyakiḥ": "Sātyaki (the same as Yuyudhāna, the charioteer of Lord Kṛṣṇa).",
+          "aparājitaḥ": "who were never vanquished before.",
+          "drupadaḥ": "Drupada, the King of Pāñcāla.",
+          "draupadeyāḥ": "the sons of Draupadī.",
+          "sarvaśaḥ": "all.",
+          "pṛthivī-pate": "O King.",
+          "saubhadraḥ": "the son of Subhadrā (Abhimanyu).",
+          "mahā-bāhuḥ": "greatly armed.",
+          "śaṅkhān": "conchshells.",
+          "dadhmuḥ": "blew.",
+          "pṛthak pṛthak": "each separately."
+        },
+        "translation": "King Yudhiṣṭhira, the son of Kuntī, blew his conchshell, the Anantavijaya, and Nakula and Sahadeva blew the Sughoṣa and Maṇipuṣpaka. That great archer, the King of Kāśī, the great fighter Śikhaṇḍī, Dhṛṣṭadyumna, Virāṭa and the unconquerable Sātyaki, Drupada, the sons of Draupadī, and the others, O King, such as the son of Subhadrā, greatly armed, all blew their respective conchshells."
       },
       {
-        "text": "Sanjaya uvaca: Yudham dharman tu kshatriya, na tvayaham kshudrah.",
+        "text": "sa ghoṣo dhārtarāṣṭrāṇāṁ, hṛdayāni vyadārayat, nabhaś ca pṛthivīṁ caiva, tumulo 'bhyanunādayan.",
         "wordByWordMeaning": {
-          "sanjaya": "Sanjaya said.",
-          "uvaca": "spoke.",
-          "yudham": "the battle.",
-          "dharman": "of righteousness.",
-          "tu": "but.",
-          "kshatriya": "the Kshatriya.",
-          "na": "not.",
-          "tvayaham": "by you.",
-          "kshudrah": "insignificant."
+          "saḥ": "that.",
+          "ghoṣaḥ": "vibration.",
+          "dhārtarāṣṭrāṇām": "of the sons of Dhṛtarāṣṭra.",
+          "hṛdayāni": "hearts.",
+          "vyadārayat": "shattered.",
+          "nabhaḥ": "the sky.",
+          "ca": "also.",
+          "pṛthivīm": "the surface of the earth.",
+          "eva": "certainly.",
+          "tumulaḥ": "uproarious.",
+          "abhyanunādayan": "by resounding."
         },
-        "overallMeaning": "Sanjaya said: The battle of righteousness is not insignificant to you, O Kshatriya. This underscores the significance of duty in the warrior's life."
+        "translation": "The blowing of these different conchshells became uproarious, and thus, vibrating both in the sky and on the earth, it shattered the hearts of the sons of Dhṛtarāṣṭra."
       },
       {
-        "text": "Yudhishthira uvaca: Aham dharma, hiyate, priyam sah.",
+        "text": "atha vyavasthitān dṛṣṭvā, dhārtarāṣṭrān kapi-dhvajaḥ, pravṛtte śastra-sampāte, dhanur udyamya pāṇḍavaḥ, hṛṣīkeśaṁ tadā vākyam, idam āha mahī-pate.",
         "wordByWordMeaning": {
-          "yudhishthira": "Yudhishthira said.",
-          "uvaca": "spoke.",
+          "atha": "thereupon.",
+          "vyavasthitān": "situated.",
+          "dṛṣṭvā": "looking on.",
+          "dhārtarāṣṭrān": "the sons of Dhṛtarāṣṭra.",
+          "kapi-dhvajaḥ": "one whose flag is marked with Hanumān.",
+          "pravṛtte": "while about to be engaged.",
+          "śastra-sampāte": "the arrows released.",
+          "dhanuḥ": "bow.",
+          "udyamya": "after taking up.",
+          "pāṇḍavaḥ": "the son of Pāṇḍu (Arjuna).",
+          "hṛṣīkeśam": "unto Lord Kṛṣṇa.",
+          "tadā": "at that time.",
+          "vākyam": "words.",
+          "idam": "these.",
+          "āha": "said.",
+          "mahī-pate": "O King."
+        },
+        "translation": "O King, at that time Arjuna, the son of Pāṇḍu, who was seated in his chariot, his flag marked with Hanumān, took up his bow and prepared to shoot his arrows, looking at the sons of Dhṛtarāṣṭra. O King, Arjuna then spoke to Hṛṣīkeśa [Kṛṣṇa] these words."
+      },
+      {
+        "text": "arjuna uvāca, senayor ubhayor madhye, rathaṁ sthāpaya me 'cyuta, yāvad etān nirīkṣe 'haṁ, yoddhu-kāmān avasthitān, kair mayā saha yoddhavyam, asmin raṇa-samudyame.",
+        "wordByWordMeaning": {
+          "arjunaḥ": "Arjuna.",
+          "uvāca": "said.",
+          "senayoḥ": "of the armies.",
+          "ubhayor": "of both the parties.",
+          "madhye": "in between them.",
+          "ratham": "the chariot.",
+          "sthāpaya": "please keep.",
+          "me": "my.",
+          "acyuta": "O infallible one.",
+          "yāvat": "as long as.",
+          "etān": "all these.",
+          "nirīkṣe": "may look.",
           "aham": "I.",
-          "dharma": "righteousness.",
-          "hiyate": "is lifted.",
-          "priyam": "pleasing.",
-          "sah": "he."
+          "yoddhu-kāmān": "desiring to fight.",
+          "avasthitān": "arrayed on the battlefield.",
+          "kair": "with whom.",
+          "mayā": "by me.",
+          "saha": "with.",
+          "yoddhavyam": "to fight with.",
+          "asmin": "in this.",
+          "raṇa": "battle.",
+          "samudyame": "in the attempt."
         },
-        "overallMeaning": "Yudhishthira said: I am lifted by righteousness, even if it is pleasing. This reflects Yudhishthira's commitment to his principles."
-      },
+        "translation": "Arjuna said: O infallible one, please draw my chariot between the two armies so that I may see who is present here, who is desirous of fighting, and with whom I must contend in this great battle attempt."
+      },      
       {
-        "text": "Sanjaya uvaca: Esha dharma vijahati, sah purushah.",
+        "text": "yotsyamānān avekṣe 'haṁ, ya ete 'tra samāgatāḥ, dhārtarāṣṭrasya durbuddher, yuddhe priya-cikīrṣavaḥ.",
         "wordByWordMeaning": {
-          "sanjaya": "Sanjaya said.",
-          "uvaca": "spoke.",
-          "esha": "this.",
-          "dharma": "righteousness.",
-          "vijahati": "overcomes.",
-          "sah": "that person.",
-          "purushah": "is a person."
-        },
-        "overallMeaning": "Sanjaya said: This righteousness overcomes; that person is indeed a true human. This emphasizes the transformative power of righteousness."
-      },
-      {
-        "text": "Yudhishthira uvaca: Kim punah dharmyam, samshayam.",
-        "wordByWordMeaning": {
-          "yudhishthira": "Yudhishthira said.",
-          "uvaca": "spoke.",
-          "kim": "what.",
-          "punah": "again.",
-          "dharmyam": "is righteousness.",
-          "samshayam": "doubt."
-        },
-        "overallMeaning": "Yudhishthira said: What, then, is righteousness, O Sanjaya, in the face of doubt? This reflects his struggle with moral ambiguity."
-      },
-      {
-        "text": "Sanjaya uvaca: Dharma samshayam, vijahati kshudrah.",
-        "wordByWordMeaning": {
-          "sanjaya": "Sanjaya said.",
-          "uvaca": "spoke.",
-          "dharma": "righteousness.",
-          "samshayam": "doubt.",
-          "vijahati": "overcomes.",
-          "kshudrah": "the insignificant."
-        },
-        "overallMeaning": "Sanjaya said: Righteousness overcomes doubt, leaving behind the insignificant. This verse emphasizes the clarity that righteousness brings."
-      },
-      {
-        "text": "Yudhishthira uvaca: Kim kshudra, dharmya, vijahati.",
-        "wordByWordMeaning": {
-          "yudhishthira": "Yudhishthira said.",
-          "uvaca": "spoke.",
-          "kim": "what.",
-          "kshudra": "insignificant.",
-          "dharmya": "righteousness.",
-          "vijahati": "overcomes."
-        },
-        "overallMeaning": "Yudhishthira said: What indeed is insignificant that righteousness overcomes? This reflects his ongoing quest for understanding."
-      },
-      {
-        "text": "Sanjaya uvaca: Kim punah dharmam, dharman, vijahati.",
-        "wordByWordMeaning": {
-          "sanjaya": "Sanjaya said.",
-          "uvaca": "spoke.",
-          "kim": "what.",
-          "punah": "again.",
-          "dharmam": "righteousness.",
-          "dharman": "of virtue.",
-          "vijahati": "overcomes."
-        },
-        "overallMeaning": "Sanjaya said: What again is the righteousness that overcomes virtue? This highlights the complex nature of moral decisions."
-      },
-      {
-        "text": "Sanjaya uvaca: Dharmaraja pitaram, sahadharman, dharma.",
-        "wordByWordMeaning": {
-          "sanjaya": "Sanjaya said.",
-          "uvaca": "spoke.",
-          "dharmaraja": "Dharmaraja (Yudhishthira).",
-          "pitaram": "the father.",
-          "sahadharman": "and the duties.",
-          "dharma": "of righteousness."
-        },
-        "overallMeaning": "Sanjaya said: Dharmaraja, the father of duties, embodies righteousness. This verse underscores the foundational role of Yudhishthira in the quest for justice."
-      },
-      {
-        "text": "Yudhishthira uvaca: Kim pitaram, sahadharman, dharman.",
-        "wordByWordMeaning": {
-          "yudhishthira": "Yudhishthira said.",
-          "uvaca": "spoke.",
-          "kim": "what.",
-          "pitaram": "father.",
-          "sahadharman": "and the duties.",
-          "dharman": "of righteousness."
-        },
-        "overallMeaning": "Yudhishthira said: What is the essence of the father and the duties of righteousness? This reflects his exploration of familial and ethical responsibilities."
-      },
-      {
-        "text": "Sanjaya uvaca: Aham dharmam, dharman, pitaram.",
-        "wordByWordMeaning": {
-          "sanjaya": "Sanjaya said.",
-          "uvaca": "spoke.",
+          "yotsyamānān": "those who will be fighting.",
+          "avekṣe": "let me see.",
           "aham": "I.",
-          "dharmam": "righteousness.",
-          "dharman": "of virtue.",
-          "pitaram": "the father."
-        },
-        "overallMeaning": "Sanjaya said: I embody righteousness, the father of virtue. This verse emphasizes the intrinsic connection between personal integrity and moral leadership."
-      },
-      {
-        "text": "Yudhishthira uvaca: Kim dharmyam, priyam, vijahati.",
-        "wordByWordMeaning": {
-          "yudhishthira": "Yudhishthira said.",
-          "uvaca": "spoke.",
-          "kim": "what.",
-          "dharmyam": "is righteousness.",
-          "priyam": "pleasing.",
-          "vijahati": "overcomes."
-        },
-        "overallMeaning": "Yudhishthira said: What is the righteousness that overcomes what is pleasing? This question probes the tension between duty and desire."
-      },
-      {
-        "text": "Sanjaya uvaca: Priyam dharmam, dharman, vijahati.",
-        "wordByWordMeaning": {
-          "sanjaya": "Sanjaya said.",
-          "uvaca": "spoke.",
-          "priyam": "pleasing.",
-          "dharmam": "is righteousness.",
-          "dharman": "of virtue.",
-          "vijahati": "overcomes."
-        },
-        "overallMeaning": "Sanjaya said: What is pleasing is indeed righteousness that overcomes virtue. This highlights the often blurred line between moral choices and personal satisfaction."
-      },
-      {
-        "text": "Yudhishthira uvaca: Kim dharmam, pitaram, sahadharman.",
-        "wordByWordMeaning": {
-          "yudhishthira": "Yudhishthira said.",
-          "uvaca": "spoke.",
-          "kim": "what.",
-          "dharmam": "is righteousness.",
-          "pitaram": "father.",
-          "sahadharman": "and the duties."
-        },
-        "overallMeaning": "Yudhishthira said: What is the righteousness of the father and the duties? This reflects on the interplay between personal values and familial obligations."
-      },
-      {
-        "text": "Sanjaya uvaca: Dharma sah, dharman, pitaram.",
-        "wordByWordMeaning": {
-          "sanjaya": "Sanjaya said.",
-          "uvaca": "spoke.",
-          "dharma": "righteousness.",
-          "sah": "he.",
-          "dharman": "of virtue.",
-          "pitaram": "the father."
-        },
-        "overallMeaning": "Sanjaya said: He embodies righteousness, the father of virtue. This emphasizes the essential qualities of leadership and moral integrity."
-      },
-      {
-        "text": "Yudhishthira uvaca: Kim punah dharmyam, vijahati.",
-        "wordByWordMeaning": {
-          "yudhishthira": "Yudhishthira said.",
-          "uvaca": "spoke.",
-          "kim": "what.",
-          "punah": "again.",
-          "dharmyam": "is righteousness.",
-          "vijahati": "overcomes."
-        },
-        "overallMeaning": "Yudhishthira said: What again is the righteousness that overcomes? This continued questioning reflects his deep inner turmoil and quest for understanding."
-      },
-      {
-        "text": "Sanjaya uvaca: Aham dharmam, vijahati kshudrah.",
-        "wordByWordMeaning": {
-          "sanjaya": "Sanjaya said.",
-          "uvaca": "spoke.",
-          "aham": "I.",
-          "dharmam": "righteousness.",
-          "vijahati": "overcomes.",
-          "kshudrah": "the insignificant."
-        },
-        "overallMeaning": "Sanjaya said: I embody righteousness that overcomes the insignificant. This highlights the importance of moral strength."
-      },
-      {
-        "text": "Yudhishthira uvaca: Kimekam dharmam, vijahati.",
-        "wordByWordMeaning": {
-          "yudhishthira": "Yudhishthira said.",
-          "uvaca": "spoke.",
-          "kimekam": "what is one.",
-          "dharmam": "righteousness.",
-          "vijahati": "overcomes."
-        },
-        "overallMeaning": "Yudhishthira said: What is the essence of righteousness that overcomes? This question reflects his search for a singular truth."
-      },
-      {
-        "text": "Sanjaya uvaca: Esha dharmam, na tu priyam.",
-        "wordByWordMeaning": {
-          "sanjaya": "Sanjaya said.",
-          "uvaca": "spoke.",
-          "esha": "this.",
-          "dharmam": "righteousness.",
-          "na": "not.",
-          "tu": "but.",
-          "priyam": "pleasing."
-        },
-        "overallMeaning": "Sanjaya said: This is righteousness, not merely what is pleasing. This emphasizes the necessity of prioritizing duty over desire."
-      },
-      {
-        "text": "Yudhishthira uvaca: Kim kshudra, dharmyam, vijahati.",
-        "wordByWordMeaning": {
-          "yudhishthira": "Yudhishthira said.",
-          "uvaca": "spoke.",
-          "kim": "what.",
-          "kshudra": "insignificant.",
-          "dharmyam": "is righteousness.",
-          "vijahati": "overcomes."
-        },
-        "overallMeaning": "Yudhishthira said: What is the insignificance that righteousness overcomes? This expresses his ongoing inquiry into the nature of virtue."
-      },
-      {
-        "text": "Sanjaya uvaca: Kim punah dharmam, sah dharman.",
-        "wordByWordMeaning": {
-          "sanjaya": "Sanjaya said.",
-          "uvaca": "spoke.",
-          "kim": "what.",
-          "punah": "again.",
-          "dharmam": "is righteousness.",
-          "sah": "he.",
-          "dharman": "of virtue."
-        },
-        "overallMeaning": "Sanjaya said: What again is the righteousness of virtue? This highlights the complexity of moral principles."
-      },
-      {
-        "text": "Yudhishthira uvaca: Kimekam dharmyam, vijahati.",
-        "wordByWordMeaning": {
-          "yudhishthira": "Yudhishthira said.",
-          "uvaca": "spoke.",
-          "kimekam": "what is one.",
-          "dharmyam": "righteousness.",
-          "vijahati": "overcomes."
-        },
-        "overallMeaning": "Yudhishthira said: What is the singular righteousness that prevails? This reflects his quest for a deeper understanding of ethical principles."
-      },
-      {
-        "text": "Sanjaya uvaca: Dharmam tu kshudrah, sah purushah.",
-        "wordByWordMeaning": {
-          "sanjaya": "Sanjaya said.",
-          "uvaca": "spoke.",
-          "dharmam": "righteousness.",
-          "tu": "but.",
-          "kshudrah": "insignificant.",
-          "sah": "that person.",
-          "purushah": "is a person."
-        },
-        "overallMeaning": "Sanjaya said: Righteousness, however, makes a person significant. This emphasizes the transformative power of adhering to moral values."
-      },
-      {
-        "text": "Yudhishthira uvaca: Kimekam dharmyam, sah dharman.",
-        "wordByWordMeaning": {
-          "yudhishthira": "Yudhishthira said.",
-          "uvaca": "spoke.",
-          "kimekam": "what is one.",
-          "dharmyam": "righteousness.",
-          "sah": "he.",
-          "dharman": "of virtue."
-        },
-        "overallMeaning": "Yudhishthira said: What is the essence of the singular righteousness of virtue? This continues his exploration of the foundations of ethics."
-      },
-      {
-        "text": "Sanjaya uvaca: Esha dharmam, vijahati kshudrah.",
-        "wordByWordMeaning": {
-          "sanjaya": "Sanjaya said.",
-          "uvaca": "spoke.",
-          "esha": "this.",
-          "dharmam": "righteousness.",
-          "vijahati": "overcomes.",
-          "kshudrah": "the insignificant."
-        },
-        "overallMeaning": "Sanjaya said: This righteousness overcomes the insignificant. This highlights the necessity of moral clarity in decision-making."
-      },
-      {
-        "text": "Yudhishthira uvaca: Kim punah dharmyam, vijahati.",
-        "wordByWordMeaning": {
-          "yudhishthira": "Yudhishthira said.",
-          "uvaca": "spoke.",
-          "kim": "what.",
-          "punah": "again.",
-          "dharmyam": "is righteousness.",
-          "vijahati": "overcomes."
-        },
-        "overallMeaning": "Yudhishthira said: What again is the righteousness that prevails? This continual questioning emphasizes his inner conflict and search for truth."
-      },
-      {
-        "text": "Sanjaya uvaca: Kshudrah dharma, vijahati.",
-        "wordByWordMeaning": {
-          "sanjaya": "Sanjaya said.",
-          "uvaca": "spoke.",
-          "kshudrah": "the insignificant.",
-          "dharma": "righteousness.",
-          "vijahati": "overcomes."
-        },
-        "overallMeaning": "Sanjaya said: The insignificant does not overcome righteousness. This underscores the power of moral principles over trivial matters."
-      },
-      {
-        "text": "Yudhishthira uvaca: Kimekam dharmam, vijahati.",
-        "wordByWordMeaning": {
-          "yudhishthira": "Yudhishthira said.",
-          "uvaca": "spoke.",
-          "kimekam": "what is one.",
-          "dharmam": "righteousness.",
-          "vijahati": "overcomes."
-        },
-        "overallMeaning": "Yudhishthira said: What is the singular righteousness that prevails? This indicates his continuous pursuit of a definitive moral understanding."
-      },
-      {
-        "text": "Sanjaya uvaca: Esha dharmam, sah purushah.",
-        "wordByWordMeaning": {
-          "sanjaya": "Sanjaya said.",
-          "uvaca": "spoke.",
-          "esha": "this.",
-          "dharmam": "righteousness.",
-          "sah": "that.",
-          "purushah": "person."
-        },
-        "overallMeaning": "Sanjaya said: This righteousness makes one a true person. This emphasizes the transformative effect of adhering to moral values."
-      },
-      {
-        "text": "Yudhishthira uvaca: Kim kshudrah, dharmyam, vijahati.",
-        "wordByWordMeaning": {
-          "yudhishthira": "Yudhishthira said.",
-          "uvaca": "spoke.",
-          "kim": "what.",
-          "kshudrah": "insignificant.",
-          "dharmyam": "is righteousness.",
-          "vijahati": "overcomes."
-        },
-        "overallMeaning": "Yudhishthira said: What is the insignificance that righteousness overcomes? This reflects his ongoing inquiry into moral values."
-      },
-      {
-        "text": "Sanjaya uvaca: Dharmam tu purushah, vijahati.",
-        "wordByWordMeaning": {
-          "sanjaya": "Sanjaya said.",
-          "uvaca": "spoke.",
-          "dharmam": "righteousness.",
-          "tu": "but.",
-          "purushah": "a person.",
-          "vijahati": "overcomes."
-        },
-        "overallMeaning": "Sanjaya said: A person who adheres to righteousness overcomes all challenges. This highlights the significance of moral character."
-      },
-      {
-        "text": "Yudhishthira uvaca: Kim dharmyam, sah dharman.",
-        "wordByWordMeaning": {
-          "yudhishthira": "Yudhishthira said.",
-          "uvaca": "spoke.",
-          "kim": "what.",
-          "dharmyam": "is righteousness.",
-          "sah": "he.",
-          "dharman": "of virtue."
-        },
-        "overallMeaning": "Yudhishthira said: What is the essence of the righteousness of virtue? This expresses his deep contemplation of ethical principles."
-      },
-      {
-        "text": "Sanjaya uvaca: Esha dharmam, vijahati kshudrah.",
-        "wordByWordMeaning": {
-          "sanjaya": "Sanjaya said.",
-          "uvaca": "spoke.",
-          "esha": "this.",
-          "dharmam": "righteousness.",
-          "vijahati": "overcomes.",
-          "kshudrah": "the insignificant."
-        },
-        "overallMeaning": "Sanjaya said: This righteousness overcomes the insignificant. This emphasizes the clarity that moral principles provide."
-      },
-      {
-        "text": "Yudhishthira uvaca: Kimekam dharmyam, vijahati.",
-        "wordByWordMeaning": {
-          "yudhishthira": "Yudhishthira said.",
-          "uvaca": "spoke.",
-          "kimekam": "what is one.",
-          "dharmyam": "righteousness.",
-          "vijahati": "overcomes."
-        },
-        "overallMeaning": "Yudhishthira said: What is the singular righteousness that prevails? This reflects his quest for a deeper understanding of moral values."
-      },
-      {
-        "text": "Sanjaya uvaca: Dharmam sah, vijahati.",
-        "wordByWordMeaning": {
-          "sanjaya": "Sanjaya said.",
-          "uvaca": "spoke.",
-          "dharmam": "righteousness.",
-          "sah": "he.",
-          "vijahati": "overcomes."
-        },
-        "overallMeaning": "Sanjaya said: He who adheres to righteousness prevails. This reinforces the centrality of virtue in overcoming life's challenges."
-      },
-      {
-        "text": "Yudhishthira uvaca: Kim punah dharmyam, vijahati.",
-        "wordByWordMeaning": {
-          "yudhishthira": "Yudhishthira said.",
-          "uvaca": "spoke.",
-          "kim": "what.",
-          "punah": "again.",
-          "dharmyam": "is righteousness.",
-          "vijahati": "overcomes."
-        },
-        "overallMeaning": "Yudhishthira said: What again is the righteousness that prevails? This continued questioning reflects his inner conflict and pursuit of truth."
-      },
-      {
-        "text": "Sanjaya uvaca: Aham dharmam, vijahati kshudrah.",
-        "wordByWordMeaning": {
-          "sanjaya": "Sanjaya said.",
-          "uvaca": "spoke.",
-          "aham": "I.",
-          "dharmam": "righteousness.",
-          "vijahati": "overcomes.",
-          "kshudrah": "the insignificant."
-        },
-        "overallMeaning": "Sanjaya said: I embody righteousness that overcomes the insignificant. This underscores the importance of moral principles."
-      },
-      {
-        "text": "Yudhishthira uvaca: Kimekam dharmam, vijahati.",
-        "wordByWordMeaning": {
-          "yudhishthira": "Yudhishthira said.",
-          "uvaca": "spoke.",
-          "kimekam": "what is one.",
-          "dharmam": "righteousness.",
-          "vijahati": "overcomes."
-        },
-        "overallMeaning": "Yudhishthira said: What is the singular righteousness that prevails? This indicates his continuous pursuit of a definitive moral understanding."
-      },
-      {
-        "text": "Sanjaya uvaca: Esha dharmam, sah purushah.",
-        "wordByWordMeaning": {
-          "sanjaya": "Sanjaya said.",
-          "uvaca": "spoke.",
-          "esha": "this.",
-          "dharmam": "righteousness.",
-          "sah": "that.",
-          "purushah": "person."
-        },
-        "overallMeaning": "Sanjaya said: This righteousness makes one a true person. This emphasizes the transformative effect of adhering to moral values."
-      },
-      {
-        "text": "Yudhishthira uvaca: Kim kshudrah, dharmyam, vijahati.",
-        "wordByWordMeaning": {
-          "yudhishthira": "Yudhishthira said.",
-          "uvaca": "spoke.",
-          "kim": "what.",
-          "kshudrah": "insignificant.",
-          "dharmyam": "is righteousness.",
-          "vijahati": "overcomes."
-        },
-        "overallMeaning": "Yudhishthira said: What is the insignificance that righteousness overcomes? This reflects his ongoing inquiry into moral values."
-      },
-      {
-        "text": "Sanjaya uvaca: Dharmam tu purushah, vijahati.",
-        "wordByWordMeaning": {
-          "sanjaya": "Sanjaya said.",
-          "uvaca": "spoke.",
-          "dharmam": "righteousness.",
-          "tu": "but.",
-          "purushah": "a person.",
-          "vijahati": "overcomes."
-        },
-        "overallMeaning": "Sanjaya said: A person who adheres to righteousness overcomes all challenges. This highlights the significance of moral character."
-      },
-      {
-        "text": "Yudhishthira uvaca: Kim dharmyam, sah dharman.",
-        "wordByWordMeaning": {
-          "yudhishthira": "Yudhishthira said.",
-          "uvaca": "spoke.",
-          "kim": "what.",
-          "dharmyam": "is righteousness.",
-          "sah": "he.",
-          "dharman": "of virtue."
-        },
-        "overallMeaning": "Yudhishthira said: What is the essence of the righteousness of virtue? This expresses his deep contemplation of ethical principles."
-      },
-      {
-        "text": "Sanjaya uvaca: Esha dharmam, vijahati kshudrah.",
-        "wordByWordMeaning": {
-          "sanjaya": "Sanjaya said.",
-          "uvaca": "spoke.",
-          "esha": "this.",
-          "dharmam": "righteousness.",
-          "vijahati": "overcomes.",
-          "kshudrah": "the insignificant."
-        },
-        "overallMeaning": "Sanjaya said: This righteousness overcomes the insignificant. This emphasizes the clarity that moral principles provide."
-      },
-      {
-        "text": "Yudhishthira uvaca: Kimekam dharmyam, vijahati.",
-        "wordByWordMeaning": {
-          "yudhishthira": "Yudhishthira said.",
-          "uvaca": "spoke.",
-          "kimekam": "what is one.",
-          "dharmyam": "righteousness.",
-          "vijahati": "overcomes."
-        },
-        "overallMeaning": "Yudhishthira said: What is the singular righteousness that prevails? This reflects his quest for a deeper understanding of moral values."
-      },
-      {
-        "text": "Sanjaya uvaca: Dharmam sah, vijahati.",
-        "wordByWordMeaning": {
-          "sanjaya": "Sanjaya said.",
-          "uvaca": "spoke.",
-          "dharmam": "righteousness.",
-          "sah": "he.",
-          "vijahati": "overcomes."
-        },
-        "overallMeaning": "Sanjaya said: He who adheres to righteousness prevails. This reinforces the centrality of virtue in overcoming life's challenges."
-      },
-      {
-        "text": "Yudhishthira uvaca: Kim punah dharmyam, vijahati.",
-        "wordByWordMeaning": {
-          "yudhishthira": "Yudhishthira said.",
-          "uvaca": "spoke.",
-          "kim": "what.",
-          "punah": "again.",
-          "dharmyam": "is righteousness.",
-          "vijahati": "overcomes."
-        },
-        "overallMeaning": "Yudhishthira said: What again is the righteousness that prevails? This continued questioning reflects his inner conflict and pursuit of truth."
-      },
-      {
-        "text": "Sanjaya uvaca: Aham dharmam, vijahati kshudrah.",
-        "wordByWordMeaning": {
-          "sanjaya": "Sanjaya said.",
-          "uvaca": "spoke.",
-          "aham": "I.",
-          "dharmam": "righteousness.",
-          "vijahati": "overcomes.",
-          "kshudrah": "the insignificant."
-        },
-        "overallMeaning": "Sanjaya said: I embody righteousness that overcomes the insignificant. This underscores the importance of moral principles."
-      },
-      {
-        "text": "Yudhishthira uvaca: Kimekam dharmam, vijahati.",
-        "wordByWordMeaning": {
-          "yudhishthira": "Yudhishthira said.",
-          "uvaca": "spoke.",
-          "kimekam": "what is one.",
-          "dharmam": "righteousness.",
-          "vijahati": "overcomes."
-        },
-        "overallMeaning": "Yudhishthira said: What is the singular righteousness that prevails? This indicates his continuous pursuit of a definitive moral understanding."
-      },
-      {
-        "text": "Sanjaya uvaca: Esha dharmam, sah purushah.",
-        "wordByWordMeaning": {
-          "sanjaya": "Sanjaya said.",
-          "uvaca": "spoke.",
-          "esha": "this.",
-          "dharmam": "righteousness.",
-          "sah": "that.",
-          "purushah": "person."
-        },
-        "overallMeaning": "Sanjaya said: This righteousness makes one a true person. This emphasizes the transformative effect of adhering to moral values."
-      },
-      {
-        "text": "Yudhishthira uvaca: Kim kshudrah, dharmyam, vijahati.",
-        "wordByWordMeaning": {
-          "yudhishthira": "Yudhishthira said.",
-          "uvaca": "spoke.",
-          "kim": "what.",
-          "kshudrah": "insignificant.",
-          "dharmyam": "is righteousness.",
-          "vijahati": "overcomes."
-        },
-        "overallMeaning": "Yudhishthira said: What is the insignificance that righteousness overcomes? This reflects his ongoing inquiry into moral values."
-      },
-      {
-        "text": "Sanjaya uvaca: Dharmam tu purushah, vijahati.",
-        "wordByWordMeaning": {
-          "sanjaya": "Sanjaya said.",
-          "uvaca": "spoke.",
-          "dharmam": "righteousness.",
-          "tu": "but.",
-          "purushah": "a person.",
-          "vijahati": "overcomes."
-        },
-        "overallMeaning": "Sanjaya said: A person who adheres to righteousness overcomes all challenges. This highlights the significance of moral character."
-      },
-      {
-        "text": "Yudhishthira uvaca: Kim dharmyam, sah dharman.",
-        "wordByWordMeaning": {
-          "yudhishthira": "Yudhishthira said.",
-          "uvaca": "spoke.",
-          "kim": "what.",
-          "dharmyam": "is righteousness.",
-          "sah": "he.",
-          "dharman": "of virtue."
-        },
-        "overallMeaning": "Yudhishthira said: What is the essence of the righteousness of virtue? This expresses his deep contemplation of ethical principles."
-      },
-      {
-        "text": "Sanjaya uvaca: Esha dharmam, vijahati kshudrah.",
-        "wordByWordMeaning": {
-          "sanjaya": "Sanjaya said.",
-          "uvaca": "spoke.",
-          "esha": "this.",
-          "dharmam": "righteousness.",
-          "vijahati": "overcomes.",
-          "kshudrah": "the insignificant."
-        },
-        "overallMeaning": "Sanjaya said: This righteousness overcomes the insignificant. This emphasizes the clarity that moral principles provide."
-      },
-      {
-        "text": "Yudhishthira uvaca: Kimekam dharmyam, vijahati.",
-        "wordByWordMeaning": {
-          "yudhishthira": "Yudhishthira said.",
-          "uvaca": "spoke.",
-          "kimekam": "what is one.",
-          "dharmyam": "righteousness.",
-          "vijahati": "overcomes."
-        },
-        "overallMeaning": "Yudhishthira said: What is the singular righteousness that prevails? This reflects his quest for a deeper understanding of moral values."
-      },
-      {
-        "text": "Sanjaya uvaca: Dharmam sah, vijahati.",
-        "wordByWordMeaning": {
-          "sanjaya": "Sanjaya said.",
-          "uvaca": "spoke.",
-          "dharmam": "righteousness.",
-          "sah": "he.",
-          "vijahati": "overcomes."
-        },
-        "overallMeaning": "Sanjaya said: He who adheres to righteousness prevails. This reinforces the centrality of virtue in overcoming life's challenges."
-      },
-      {
-        "text": "Yudhishthira uvaca: Kim punah dharmyam, vijahati.",
-        "wordByWordMeaning": {
-          "yudhishthira": "Yudhishthira said.",
-          "uvaca": "spoke.",
-          "kim": "what.",
-          "punah": "again.",
-          "dharmyam": "is righteousness.",
-          "vijahati": "overcomes."
-        },
-        "overallMeaning": "Yudhishthira said: What again is the righteousness that prevails? This continued questioning reflects his inner conflict and pursuit of truth."
-      },
-      {
-        "text": "Sanjaya uvaca: Aham dharmam, vijahati kshudrah.",
-        "wordByWordMeaning": {
-          "sanjaya": "Sanjaya said.",
-          "uvaca": "spoke.",
-          "aham": "I.",
-          "dharmam": "righteousness.",
-          "vijahati": "overcomes.",
-          "kshudrah": "the insignificant."
-        },
-        "overallMeaning": "Sanjaya said: I embody righteousness that overcomes the insignificant. This emphasizes the importance of moral principles."
-      },
-      {
-        "text": "Yudhishthira uvaca: Kimekam dharmam, vijahati.",
-        "wordByWordMeaning": {
-          "yudhishthira": "Yudhishthira said.",
-          "uvaca": "spoke.",
-          "kimekam": "what is one.",
-          "dharmam": "righteousness.",
-          "vijahati": "overcomes."
-        },
-        "overallMeaning": "Yudhishthira said: What is the singular righteousness that prevails? This reflects his continuous quest for a definitive moral understanding."
-      },
-      {
-        "text": "Sanjaya uvaca: Esha dharmam, sah purushah.",
-        "wordByWordMeaning": {
-          "sanjaya": "Sanjaya said.",
-          "uvaca": "spoke.",
-          "esha": "this.",
-          "dharmam": "righteousness.",
-          "sah": "that.",
-          "purushah": "person."
-        },
-        "overallMeaning": "Sanjaya said: This righteousness makes one a true person. This highlights the transformative effect of adhering to moral values."
-      },
-      {
-        "text": "Yudhishthira uvaca: Kim kshudrah, dharmyam, vijahati.",
-        "wordByWordMeaning": {
-          "yudhishthira": "Yudhishthira said.",
-          "uvaca": "spoke.",
-          "kim": "what.",
-          "kshudrah": "insignificant.",
-          "dharmyam": "is righteousness.",
-          "vijahati": "overcomes."
-        },
-        "overallMeaning": "Yudhishthira said: What is the insignificance that righteousness overcomes? This shows his ongoing inquiry into moral values."
-      },
-      {
-        "text": "Sanjaya uvaca: Dharmam tu purushah, vijahati.",
-        "wordByWordMeaning": {
-          "sanjaya": "Sanjaya said.",
-          "uvaca": "spoke.",
-          "dharmam": "righteousness.",
-          "tu": "but.",
-          "purushah": "a person.",
-          "vijahati": "overcomes."
-        },
-        "overallMeaning": "Sanjaya said: A person who adheres to righteousness overcomes all challenges. This highlights the significance of moral character."
-      },
-      {
-        "text": "Yudhishthira uvaca: Kim dharmyam, sah dharman.",
-        "wordByWordMeaning": {
-          "yudhishthira": "Yudhishthira said.",
-          "uvaca": "spoke.",
-          "kim": "what.",
-          "dharmyam": "is righteousness.",
-          "sah": "he.",
-          "dharman": "of virtue."
-        },
-        "overallMeaning": "Yudhishthira said: What is the essence of the righteousness of virtue? This reflects his deep contemplation of ethical principles."
-      },
-      {
-        "text": "Sanjaya uvaca: Esha dharmam, vijahati kshudrah.",
-        "wordByWordMeaning": {
-          "sanjaya": "Sanjaya said.",
-          "uvaca": "spoke.",
-          "esha": "this.",
-          "dharmam": "righteousness.",
-          "vijahati": "overcomes.",
-          "kshudrah": "the insignificant."
-        },
-        "overallMeaning": "Sanjaya said: This righteousness overcomes the insignificant. This emphasizes the clarity that moral principles provide."
-      },
-      {
-        "text": "Yudhishthira uvaca: Kimekam dharmyam, vijahati.",
-        "wordByWordMeaning": {
-          "yudhishthira": "Yudhishthira said.",
-          "uvaca": "spoke.",
-          "kimekam": "what is one.",
-          "dharmyam": "righteousness.",
-          "vijahati": "overcomes."
-        },
-        "overallMeaning": "Yudhishthira said: What is the singular righteousness that prevails? This reflects his quest for a deeper understanding of moral values."
-      },
-      {
-        "text": "Sanjaya uvaca: Dharmam sah, vijahati.",
-        "wordByWordMeaning": {
-          "sanjaya": "Sanjaya said.",
-          "uvaca": "spoke.",
-          "dharmam": "righteousness.",
-          "sah": "he.",
-          "vijahati": "overcomes."
-        },
-        "overallMeaning": "Sanjaya said: He who adheres to righteousness prevails. This reinforces the centrality of virtue in overcoming life's challenges."
-      },
-      {
-        "text": "Yudhishthira uvaca: Kim punah dharmyam, vijahati.",
-        "wordByWordMeaning": {
-          "yudhishthira": "Yudhishthira said.",
-          "uvaca": "spoke.",
-          "kim": "what.",
-          "punah": "again.",
-          "dharmyam": "is righteousness.",
-          "vijahati": "overcomes."
-        },
-        "overallMeaning": "Yudhishthira said: What again is the righteousness that prevails? This continued questioning reflects his inner conflict and pursuit of truth."
-      },
-      {
-        "text": "Sanjaya uvaca: Aham dharmam, vijahati kshudrah.",
-        "wordByWordMeaning": {
-          "sanjaya": "Sanjaya said.",
-          "uvaca": "spoke.",
-          "aham": "I.",
-          "dharmam": "righteousness.",
-          "vijahati": "overcomes.",
-          "kshudrah": "the insignificant."
-        },
-        "overallMeaning": "Sanjaya said: I embody righteousness that overcomes the insignificant. This emphasizes the importance of moral principles."
-      },
-      {
-        "text": "Yudhishthira uvaca: Kimekam dharmam, vijahati.",
-        "wordByWordMeaning": {
-          "yudhishthira": "Yudhishthira said.",
-          "uvaca": "spoke.",
-          "kimekam": "what is one.",
-          "dharmam": "righteousness.",
-          "vijahati": "overcomes."
-        },
-        "overallMeaning": "Yudhishthira said: What is the singular righteousness that prevails? This reflects his continuous quest for a definitive moral understanding."
-      },
-      {
-        "text": "Sanjaya uvaca: Esha dharmam, sah purushah.",
-        "wordByWordMeaning": {
-          "sanjaya": "Sanjaya said.",
-          "uvaca": "spoke.",
-          "esha": "this.",
-          "dharmam": "righteousness.",
-          "sah": "that.",
-          "purushah": "person."
-        },
-        "overallMeaning": "Sanjaya said: This righteousness makes one a true person. This highlights the transformative effect of adhering to moral values."
-      },
-      {
-        "text": "Yudhishthira uvaca: Kim kshudrah, dharmyam, vijahati.",
-        "wordByWordMeaning": {
-          "yudhishthira": "Yudhishthira said.",
-          "uvaca": "spoke.",
-          "kim": "what.",
-          "kshudrah": "insignificant.",
-          "dharmyam": "is righteousness.",
-          "vijahati": "overcomes."
-        },
-        "overallMeaning": "Yudhishthira said: What is the insignificance that righteousness overcomes? This shows his ongoing inquiry into moral values."
-      },
-      {
-        "text": "Sanjaya uvaca: Dharmam tu purushah, vijahati.",
-        "wordByWordMeaning": {
-          "sanjaya": "Sanjaya said.",
-          "uvaca": "spoke.",
-          "dharmam": "righteousness.",
-          "tu": "but.",
-          "purushah": "a person.",
-          "vijahati": "overcomes."
-        },
-        "overallMeaning": "Sanjaya said: A person who adheres to righteousness overcomes all challenges. This highlights the significance of moral character."
-      },
-      {
-        "text": "Yudhishthira uvaca: Kim dharmyam, sah dharman.",
-        "wordByWordMeaning": {
-          "yudhishthira": "Yudhishthira said.",
-          "uvaca": "spoke.",
-          "kim": "what.",
-          "dharmyam": "is righteousness.",
-          "sah": "he.",
-          "dharman": "of virtue."
-        },
-        "overallMeaning": "Yudhishthira said: What is the essence of the righteousness of virtue? This reflects his deep contemplation of ethical principles."
-      },
-      {
-        "text": "Sanjaya uvaca: Esha dharmam, vijahati kshudrah.",
-        "wordByWordMeaning": {
-          "sanjaya": "Sanjaya said.",
-          "uvaca": "spoke.",
-          "esha": "this.",
-          "dharmam": "righteousness.",
-          "vijahati": "overcomes.",
-          "kshudrah": "the insignificant."
-        },
-        "overallMeaning": "Sanjaya said: This righteousness overcomes the insignificant. This emphasizes the clarity that moral principles provide."
-      },
-      {
-        "text": "Yudhishthira uvaca: Kimekam dharmyam, vijahati.",
-        "wordByWordMeaning": {
-          "yudhishthira": "Yudhishthira said.",
-          "uvaca": "spoke.",
-          "kimekam": "what is one.",
-          "dharmyam": "righteousness.",
-          "vijahati": "overcomes."
-        },
-        "overallMeaning": "Yudhishthira said: What is the singular righteousness that prevails? This reflects his quest for a deeper understanding of moral values."
-      },
-      {
-        "text": "Sanjaya uvaca: Dharmam sah, vijahati.",
-        "wordByWordMeaning": {
-          "sanjaya": "Sanjaya said.",
-          "uvaca": "spoke.",
-          "dharmam": "righteousness.",
-          "sah": "he.",
-          "vijahati": "overcomes."
-        },
-        "overallMeaning": "Sanjaya said: He who adheres to righteousness prevails. This reinforces the centrality of virtue in overcoming life's challenges."
-      },
-      {
-        "text": "Yudhishthira uvaca: Kim punah dharmyam, vijahati.",
-        "wordByWordMeaning": {
-          "yudhishthira": "Yudhishthira said.",
-          "uvaca": "spoke.",
-          "kim": "what.",
-          "punah": "again.",
-          "dharmyam": "is righteousness.",
-          "vijahati": "overcomes."
-        },
-        "overallMeaning": "Yudhishthira said: What again is the righteousness that prevails? This continued questioning reflects his inner conflict and pursuit of truth."
-      },
-      {
-        "text": "Sanjaya uvaca: Aham dharmam, vijahati kshudrah.",
-        "wordByWordMeaning": {
-          "sanjaya": "Sanjaya said.",
-          "uvaca": "spoke.",
-          "aham": "I.",
-          "dharmam": "righteousness.",
-          "vijahati": "overcomes.",
-          "kshudrah": "the insignificant."
-        },
-        "overallMeaning": "Sanjaya said: I embody righteousness that overcomes the insignificant. This emphasizes the importance of moral principles."
-      },
-      {
-        "text": "Yudhishthira uvaca: Kimekam dharmam, vijahati.",
-        "wordByWordMeaning": {
-          "yudhishthira": "Yudhishthira said.",
-          "uvaca": "spoke.",
-          "kimekam": "what is one.",
-          "dharmam": "righteousness.",
-          "vijahati": "overcomes."
-        },
-        "overallMeaning": "Yudhishthira said: What is the singular righteousness that prevails? This reflects his continuous quest for a definitive moral understanding."
-      },
-      {
-        "text": "Sanjaya uvaca: Esha dharmam, sah purushah.",
-        "wordByWordMeaning": {
-          "sanjaya": "Sanjaya said.",
-          "uvaca": "spoke.",
-          "esha": "this.",
-          "dharmam": "righteousness.",
-          "sah": "that.",
-          "purushah": "person."
-        },
-        "overallMeaning": "Sanjaya said: This righteousness makes one a true person. This highlights the transformative effect of adhering to moral values."
-      },
-      {
-        "text": "Yudhishthira uvaca: Kim kshudrah, dharmyam, vijahati.",
-        "wordByWordMeaning": {
-          "yudhishthira": "Yudhishthira said.",
-          "uvaca": "spoke.",
-          "kim": "what.",
-          "kshudrah": "insignificant.",
-          "dharmyam": "is righteousness.",
-          "vijahati": "overcomes."
-        },
-        "overallMeaning": "Yudhishthira said: What is the insignificance that righteousness overcomes? This shows his ongoing inquiry into moral values."
-      },
-      {
-        "text": "Sanjaya uvaca: Dharmam tu purushah, vijahati.",
-        "wordByWordMeaning": {
-          "sanjaya": "Sanjaya said.",
-          "uvaca": "spoke.",
-          "dharmam": "righteousness.",
-          "tu": "but.",
-          "purushah": "a person.",
-          "vijahati": "overcomes."
-        },
-        "overallMeaning": "Sanjaya said: A person who adheres to righteousness overcomes all challenges. This highlights the significance of moral character."
-      },
-      {
-        "text": "Yudhishthira uvaca: Kim dharmyam, sah dharman.",
-        "wordByWordMeaning": {
-          "yudhishthira": "Yudhishthira said.",
-          "uvaca": "spoke.",
-          "kim": "what.",
-          "dharmyam": "is righteousness.",
-          "sah": "he.",
-          "dharman": "of virtue."
-        },
-        "overallMeaning": "Yudhishthira said: What is the essence of the righteousness of virtue? This reflects his deep contemplation of ethical principles."
-      },
-      {
-        "text": "Sanjaya uvaca: Esha dharmam, vijahati kshudrah.",
-        "wordByWordMeaning": {
-          "sanjaya": "Sanjaya said.",
-          "uvaca": "spoke.",
-          "esha": "this.",
-          "dharmam": "righteousness.",
-          "vijahati": "overcomes.",
-          "kshudrah": "the insignificant."
-        },
-        "overallMeaning": "Sanjaya said: This righteousness overcomes the insignificant. This emphasizes the clarity that moral principles provide."
-      },
-      {
-        "text": "Yudhishthira uvaca: Kimekam dharmyam, vijahati.",
-        "wordByWordMeaning": {
-          "yudhishthira": "Yudhishthira said.",
-          "uvaca": "spoke.",
-          "kimekam": "what is one.",
-          "dharmyam": "righteousness.",
-          "vijahati": "overcomes."
-        },
-        "overallMeaning": "Yudhishthira said: What is the singular righteousness that prevails? This reflects his quest for a deeper understanding of moral values."
-      },
-      {
-        "text": "Sanjaya uvaca: Dharmam sah, vijahati.",
-        "wordByWordMeaning": {
-          "sanjaya": "Sanjaya said.",
-          "uvaca": "spoke.",
-          "dharmam": "righteousness.",
-          "sah": "he.",
-          "vijahati": "overcomes."
-        },
-        "overallMeaning": "Sanjaya said: He who adheres to righteousness prevails. This reinforces the centrality of virtue in overcoming life's challenges."
-      },
-      {
-        "text": "Yudhishthira uvaca: Kim punah dharmyam, vijahati.",
-        "wordByWordMeaning": {
-          "yudhishthira": "Yudhishthira said.",
-          "uvaca": "spoke.",
-          "kim": "what.",
-          "punah": "again.",
-          "dharmyam": "is righteousness.",
-          "vijahati": "overcomes."
-        },
-        "overallMeaning": "Yudhishthira said: What again is the righteousness that prevails? This continued questioning reflects his inner conflict and pursuit of truth."
-      }               
+          "ye": "who.",
+          "ete": "those.",
+          "atra": "here.",
+          "samāgatāḥ": "assembled.",
+          "dhārtarāṣṭrasya": "the son of Dhṛtarāṣṭra.",
+          "durbuddheḥ": "evil-minded.",
+          "yuddhe": "in the fight.",
+          "priya": "well.",
+          "cikīrṣavaḥ": "wishing."
+        },
+        "translation": "Let me see those who have come here to fight, wishing to please the evil-minded son of Dhṛtarāṣṭra."
+      },
+      {
+        "text": "sañjaya uvāca, evam ukto hṛṣīkeśo, guḍākeśena bhārata, senayor ubhayor madhye, sthāpayitvā rathottamam.",
+        "wordByWordMeaning": {
+          "sañjayaḥ": "Sañjaya.",
+          "uvāca": "said.",
+          "evam": "thus.",
+          "uktaḥ": "addressed.",
+          "hṛṣīkeśaḥ": "Lord Kṛṣṇa.",
+          "guḍākeśena": "by Arjuna.",
+          "bhārata": "O descendant of Bharata.",
+          "senayoḥ": "of armies.",
+          "ubhayoḥ": "of both.",
+          "madhye": "in the midst of.",
+          "sthāpayitvā": "by placing.",
+          "rathottamam": "the finest chariot."
+        },
+        "translation": "Sañjaya said: O descendant of Bharata, being thus addressed by Arjuna, Lord Kṛṣṇa drew up the fine chariot in the midst of the armies of both parties."
+      },
+      {
+        "text": "bhīṣma-droṇa-pramukhataḥ, sarveṣāṁ ca mahīkṣitām, uvāca pārtha paśyaitān, samavetān kurūn iti.",
+        "wordByWordMeaning": {
+          "bhīṣma": "Grandfather Bhīṣma.",
+          "droṇa": "the teacher Droṇa.",
+          "pramukhataḥ": "in the front of.",
+          "sarveṣām": "all.",
+          "ca": "also.",
+          "mahīkṣitām": "chiefs of the world.",
+          "uvāca": "said.",
+          "pārtha": "O Pārtha (son of Pṛthā).",
+          "paśya": "just behold.",
+          "etān": "all of them.",
+          "samavetān": "assembled.",
+          "kurūn": "all the members of the Kuru dynasty.",
+          "iti": "thus."
+        },
+        "translation": "In the presence of Bhīṣma, Droṇa, and all other chieftains of the world, Hṛṣīkeśa, the Lord, said, 'Just behold, Pārtha, all the Kurus who are assembled here.'"
+      },
+      {
+        "text": "tatrāpaśyat sthitān pārthaḥ, pitṝn atha pitāmahān, ācāryān mātulān bhrātṝn, putrān pautrān sakhīṁs tathā, śvaśurān suhṛdaś caiva, senayor ubhayor api.",
+        "wordByWordMeaning": {
+          "tatra": "there.",
+          "apaśyat": "he could see.",
+          "sthitān": "standing.",
+          "pārthaḥ": "Arjuna.",
+          "pitṝn": "fathers.",
+          "atha": "also.",
+          "pitāmahān": "grandfathers.",
+          "ācāryān": "teachers.",
+          "mātulān": "maternal uncles.",
+          "bhrātṝn": "brothers.",
+          "putrān": "sons.",
+          "pautrān": "grandsons.",
+          "sakhīn": "friends.",
+          "tathā": "too.",
+          "śvaśurān": "fathers-in-law.",
+          "suhṛdaḥ": "well-wishers.",
+          "ca": "also.",
+          "eva": "certainly.",
+          "senayoḥ": "of the armies.",
+          "ubhayoḥ": "of both parties.",
+          "api": "including."
+        },
+        "translation": "There Arjuna could see, within the midst of the armies of both parties, his fathers, grandfathers, teachers, maternal uncles, brothers, sons, grandsons, friends, and also his father-in-law and well-wishers—all present there."
+      },
+      {
+        "text": "tān samīkṣya sa kaunteyaḥ, sarvān bandhūn avasthitān, kṛpayā parayāviṣṭo, viṣīdann idam abravīt.",
+        "wordByWordMeaning": {
+          "tān": "all of them.",
+          "samīkṣya": "after seeing.",
+          "saḥ": "he.",
+          "kaunteyaḥ": "the son of Kuntī (Arjuna).",
+          "sarvān": "all kinds of.",
+          "bandhūn": "relatives.",
+          "avasthitān": "situated.",
+          "kṛpayā": "by compassion.",
+          "parayā": "of a high grade.",
+          "āviṣṭaḥ": "overwhelmed by.",
+          "viṣīdan": "while lamenting.",
+          "idam": "thus.",
+          "abravīt": "spoke."
+        },
+        "translation": "When the son of Kuntī, Arjuna, saw all these different grades of friends and relatives, he became overwhelmed with compassion and spoke thus."
+      },
+      {
+        "text": "arjuna uvāca dṛṣṭvemaṁ svajanaṁ kṛṣṇa, yuyutsuṁ samupasthitam, sīdanti mama gātrāṇi, mukhaṁ ca pariśuṣyati.",
+        "wordByWordMeaning": {
+          "arjunaḥ": "Arjuna.",
+          "uvāca": "said.",
+          "dṛṣṭvā": "after seeing.",
+          "imam": "all these.",
+          "svajanam": "kinsmen.",
+          "kṛṣṇa": "O Kṛṣṇa.",
+          "yuyutsum": "all in fighting spirit.",
+          "samupasthitam": "all present.",
+          "sīdanti": "quivering.",
+          "mama": "my.",
+          "gātrāṇi": "limbs of the body.",
+          "mukham": "mouth.",
+          "ca": "also.",
+          "pariśuṣyati": "drying up."
+        },
+        "translation": "Arjuna said: My dear Kṛṣṇa, seeing my friends and relatives present before me in such a fighting spirit, I feel the limbs of my body quivering and my mouth drying up."
+      },
+      {
+        "text": "yasyāsti bhaktir bhagavaty akiñcanā, sarvair guṇais tatra samāsate surāḥ, harāv abhaktasya kuto mahad-guṇā, mano-rathenāsati dhāvato bahiḥ.",
+        "wordByWordMeaning": {
+          "yasyā": "one whose.",
+          "asti": "is.",
+          "bhaktiḥ": "devotion.",
+          "bhagavati": "to the Supreme Personality of Godhead.",
+          "akiñcanā": "without material possessions (pure and unalloyed).",
+          "sarvaiḥ": "all.",
+          "guṇaiḥ": "with good qualities.",
+          "tatra": "there.",
+          "samāsate": "reside.",
+          "surāḥ": "the demigods.",
+          "harau": "unto Lord Hari.",
+          "abhaktasya": "of a non-devotee.",
+          "kutaḥ": "where is?",
+          "mahad-guṇāḥ": "great qualities.",
+          "manaḥ-rathena": "on the chariot of the mind (mental speculation).",
+          "asati": "in the temporary world (unreal things).",
+          "dhāvataḥ": "running after.",
+          "bahiḥ": "externally (away from the truth)."
+        },
+        "translation": "One who has unflinching devotion for the Personality of Godhead has all the good qualities of the demigods. But one who is not a devotee of the Lord has only material qualifications that are of little value. This is because he is hovering on the mental plane and is certain to be attracted by the glaring material energy. (Bhāg. 5.18.12)"
+      },
+      {
+        "text": "vepathuś ca śarīre me, roma-harṣaś ca jāyate, gāṇḍīvaṁ sraṁsate hastāt, tvak caiva paridahyate.",
+        "wordByWordMeaning": {
+          "vepathuḥ": "trembling of the body.",
+          "ca": "also.",
+          "śarīre": "on the body.",
+          "me": "my.",
+          "roma-harṣaḥ": "standing of hair on end.",
+          "ca": "also.",
+          "jāyate": "is taking place.",
+          "gāṇḍīvam": "the bow of Arjuna.",
+          "sraṁsate": "is slipping.",
+          "hastāt": "from the hands.",
+          "tvak": "skin.",
+          "ca": "also.",
+          "eva": "certainly.",
+          "paridahyate": "burning."
+        },
+        "translation": "My whole body is trembling, and my hair is standing on end. My bow Gāṇḍīva is slipping from my hand, and my skin is burning."
+      },
+      {
+        "text": "na ca śaknomy avasthātuṁ, bhramatīva ca me manaḥ, nimittāni ca paśyāmi, viparītāni keśava.",
+        "wordByWordMeaning": {
+          "na": "nor",
+          "ca": "also",
+          "śaknomi": "am I able",
+          "avasthātum": "to stay",
+          "bhramati": "forgetting",
+          "iva": "as",
+          "ca": "and",
+          "me": "my",
+          "manaḥ": "mind",
+          "nimittāni": "causes",
+          "ca": "also",
+          "paśyāmi": "I foresee",
+          "viparītāni": "just the opposite (of good)",
+          "keśava": "O killer of the demon Keśī (Kṛṣṇa)"
+        },
+        "translation": "I am now unable to stand here any longer. I am forgetting myself, and my mind is reeling. I foresee only evil, O killer of the Keśī demon."
+      },
+      {
+        "text": "na ca śreyo ’nupaśyāmi, hatvā svajanam āhave, na kāṅkṣe vijayaṁ kṛṣṇa, na ca rājyam sukhāni ca.",
+        "wordByWordMeaning": {
+          "na": "nor",
+          "ca": "also",
+          "śreyaḥ": "good (benefit)",
+          "anupaśyāmi": "do I foresee",
+          "hatvā": "by killing",
+          "svajanam": "own kinsmen",
+          "āhave": "in battle",
+          "na": "nor",
+          "kāṅkṣe": "do I desire",
+          "vijayam": "victory",
+          "kṛṣṇa": "O Kṛṣṇa",
+          "na": "nor",
+          "ca": "also",
+          "rājyam": "kingdom",
+          "sukhāni": "happiness thereof",
+          "ca": "also"
+        },
+        "translation": "I do not see how any good can come from killing my own kinsmen in this battle, nor do I, O Kṛṣṇa, desire any subsequent victory, kingdom, or happiness."
+      },
+      {
+        "text": "kiṁ no rājyena govinda, kiṁ bhogair jīvitena vā, yeṣām arthe kāṅkṣitaṁ no, rājyam bhogāḥ sukhāni ca...",
+        "wordByWordMeaning": {
+          "kim": "what use",
+          "naḥ": "to us",
+          "rājyena": "is the kingdom",
+          "govinda": "O Kṛṣṇa",
+          "kim": "what",
+          "bhogaiḥ": "enjoyment",
+          "jīvitena": "by living",
+          "vā": "either",
+          "yeṣām": "for whom",
+          "arthe": "for the sake of",
+          "kāṅkṣitam": "is desired",
+          "no": "our",
+          "rājyam": "kingdom",
+          "bhogāḥ": "enjoyments",
+          "sukhāni": "happiness",
+          "ca": "also"
+        },
+        "translation": "O Govinda, of what avail to us are kingdoms, happiness, or even life itself when all those for whom we may desire them are now arrayed in this battlefield?",
+        "interpretation": "Arjuna laments that even if he wins, his victory will be meaningless because the very people he is fighting for—his teachers, elders, and relatives—will be lost in battle. He sees no joy in ruling a kingdom if it comes at the cost of their lives."
+      },
+      {
+        "text": "pāpam evāśrayed asmān, hatvaitān ātatāyinaḥ, tasmān nārhā vayaṁ hantuṁ, dhārtarāṣṭrān svabāndhavān...",
+        "wordByWordMeaning": {
+          "pāpam": "sin",
+          "eva": "certainly",
+          "āśrayet": "will take upon",
+          "asmān": "us",
+          "hatvā": "by killing",
+          "etān": "all these",
+          "ātatāyinaḥ": "aggressors",
+          "tasmāt": "therefore",
+          "na": "never",
+          "arhāḥ": "deserving",
+          "vayam": "we",
+          "hantum": "to kill",
+          "dhārtarāṣṭrān": "the sons of Dhṛtarāṣṭra",
+          "svabāndhavān": "along with relatives",
+          "svajanam": "kinsmen",
+          "hi": "certainly",
+          "katham": "how",
+          "hatvā": "by killing",
+          "sukhinaḥ": "happy",
+          "syāma": "shall we become",
+          "mādhava": "O Kṛṣṇa, husband of the goddess of fortune"
+        },
+        "translation": "Sin will overcome us if we slay such aggressors. Therefore, it is not proper for us to kill the sons of Dhṛtarāṣṭra and our relatives. What should we gain, O Kṛṣṇa, husband of the goddess of fortune, and how could we be happy by killing our own kinsmen?",
+        "interpretation": "Arjuna argues that even though the Kauravas are aggressors, killing them would bring sin upon the Pāṇḍavas. He questions the righteousness of war if it leads to the destruction of his own family and loved ones, believing that no happiness can come from such an act."
+      },
+      {
+        "text": "yadyapy ete na paśyanti, lobhopahata-cetasaḥ, kula-kṣaya-kṛtaṁ doṣaṁ, mitra-drohe ca pātakam...",
+        "wordByWordMeaning": {
+          "yadi": "if",
+          "api": "certainly",
+          "ete": "they",
+          "na": "do not",
+          "paśyanti": "see",
+          "lobha": "greed",
+          "upahata": "overpowered",
+          "cetasaḥ": "hearts",
+          "kula-kṣaya": "destruction of a dynasty",
+          "kṛtam": "done",
+          "doṣam": "fault",
+          "mitra-drohe": "in quarreling with friends",
+          "ca": "also",
+          "pātakam": "sinful reaction",
+          "katham": "why",
+          "na": "shall not",
+          "jñeyam": "know this",
+          "asmābhiḥ": "by us",
+          "pāpāt": "from sins",
+          "asmāt": "ourselves",
+          "nivartitum": "to cease",
+          "prapaśyadbhiḥ": "by those who can see",
+          "janārdana": "O Kṛṣṇa"
+        },
+        "translation": "O Janārdana, although these men, overtaken by greed, see no fault in killing one's family or quarreling with friends, why should we, who can see the crime in such acts, not refrain from committing this sin?",
+        "interpretation": "Arjuna contrasts himself with the Kauravas, saying that while they are blinded by greed and unable to see the consequences of their actions, the Pāṇḍavas—who understand dharma—should avoid committing the same mistakes. He argues that knowledge of sin should lead to avoidance of wrongdoing, emphasizing the moral responsibility of those who can foresee the consequences of their actions."
+      },      
+      {
+        "text": "kula-kṣaye praṇaśyanti, kula-dharmāḥ sanātanāḥ, dharme naṣṭe kulaṁ kṛtsnam, adharmo 'bhibhavaty uta",
+        "wordByWordMeaning": {
+          "kula-kṣaye": "in destroying the family",
+          "praṇaśyanti": "becomes vanquished",
+          "kula-dharmāḥ": "the family traditions",
+          "sanātanāḥ": "eternal",
+          "dharme": "in religion",
+          "naṣṭe": "being destroyed",
+          "kulam": "family",
+          "kṛtsnam": "wholesale",
+          "adharmaḥ": "irreligion",
+          "abhibhavati": "overcomes",
+          "uta": "it is said"
+        },
+        "translation": "With the destruction of the dynasty, the eternal family tradition is vanquished, and thus the rest of the family becomes involved in irreligious practice.",
+        "interpretation": "Arjuna argues that war does not just result in the death of individuals but in the loss of family values and traditions. When elders perish, they can no longer guide the younger generations, leading to moral decline and the rise of irreligion (adharma). He sees this as a long-term societal threat, not just a personal loss."
+      },
+      {
+        "text": "adharmābhibhavāt kṛṣṇa, praduṣyanti kula-striyaḥ, strīṣu duṣṭāsu vārṣṇeya, jāyate varṇa-saṅkaraḥ",
+        "wordByWordMeaning": {
+          "adharma": "irreligion",
+          "abhibhavāt": "having been predominant",
+          "kṛṣṇa": "O Kṛṣṇa",
+          "praduṣyanti": "become polluted",
+          "kula-striyaḥ": "family women",
+          "strīṣu": "of the womanhood",
+          "duṣṭāsu": "being so polluted",
+          "vārṣṇeya": "O descendant of Vṛṣṇi",
+          "jāyate": "it so becomes",
+          "varṇa-saṅkaraḥ": "unwanted progeny"
+        },
+        "translation": "When irreligion is prominent in the family, O Kṛṣṇa, the women of the family become corrupt, and from the degradation of womanhood, O descendant of Vṛṣṇi, comes unwanted progeny.",
+        "interpretation": "Arjuna fears that if war leads to the destruction of families, the absence of righteous men and elders will result in the moral decline of women. This would give rise to 'varṇa-saṅkara'—unwanted or mixed progeny—causing further disruption in the social and religious order. This reflects the Vedic concern for lineage purity and the structured functioning of society."
+      },
+      {
+        "text": "doṣair etaiḥ kula-ghnānāṁ, varṇa-saṅkara-kārakaiḥ, utsādyante jāti-dharmāḥ, kula-dharmāś ca śāśvatāḥ",
+        "wordByWordMeaning": {
+          "doṣaiḥ": "by such faults",
+          "etaiḥ": "all these",
+          "kula-ghnānām": "of those who destroy the family",
+          "varṇa-saṅkara": "unwanted progeny",
+          "kārakaiḥ": "by the doers",
+          "utsādyante": "are devastated",
+          "jāti-dharmāḥ": "community traditions",
+          "kula-dharmāḥ": "family traditions",
+          "ca": "also",
+          "śāśvatāḥ": "eternal"
+        },
+        "translation": "Due to the evil deeds of the destroyers of family tradition, all kinds of community projects and family welfare activities are devastated."
+      },
+      {
+        "text": "utsanna-kula-dharmāṇāṁ, manuṣyāṇāṁ janārdana, narake niyataṁ vāso, bhavatīty anuśuśruma",
+        "wordByWordMeaning": {
+          "utsanna": "destroyed",
+          "kula-dharmāṇām": "of those who have lost family traditions",
+          "manuṣyāṇām": "of such people",
+          "janārdana": "O Kṛṣṇa, maintainer of the people",
+          "narake": "in hell",
+          "niyatam": "perpetual",
+          "vāsaḥ": "residence",
+          "bhavati": "it so becomes",
+          "iti": "thus",
+          "anuśuśruma": "I have heard from the disciplic succession"
+        },
+        "translation": "O Kṛṣṇa, maintainer of the people, I have heard from the disciplic succession that those who destroy family traditions always reside in hell."
+      },
+      {
+        "text": "aho bata mahat pāpaṁ, kartuṁ vyavasitā vayam, yad rājya-sukha-lobhena, hantuṁ svajanam udyatāḥ",
+        "wordByWordMeaning": {
+          "aho": "alas",
+          "bata": "how strange it is",
+          "mahat": "great",
+          "pāpam": "sin",
+          "kartum": "to commit",
+          "vyavasitāḥ": "determined",
+          "vayam": "we",
+          "yad": "because",
+          "rājya": "kingdom",
+          "sukha-lobhena": "driven by the greed for royal happiness",
+          "hantum": "to kill",
+          "svajanam": "our own kinsmen",
+          "udyatāḥ": "attempting"
+        },
+        "translation": "Alas, how strange it is that we are preparing to commit greatly sinful acts, driven by the desire to enjoy royal happiness."
+      },
+      {
+        "text": "yadi mām apratīkāram, aśastraṁ śastra-pāṇayaḥ, dhārtarāṣṭrā raṇe hanyus, tan me kṣemataraṁ bhavet",
+        "wordByWordMeaning": {
+          "yadi": "if",
+          "mām": "unto me",
+          "apratīkāram": "without resistance",
+          "aśastram": "without weapons",
+          "śastra-pāṇayaḥ": "those armed with weapons",
+          "dhārtarāṣṭrāḥ": "the sons of Dhṛtarāṣṭra",
+          "raṇe": "in the battlefield",
+          "hanyuḥ": "may kill",
+          "tat": "that",
+          "me": "for me",
+          "kṣemataraṁ": "better",
+          "bhavet": "would be"
+        },
+        "translation": "I would consider it better for the sons of Dhṛtarāṣṭra to kill me unarmed and unresisting, rather than fight with them."
+      },
+      {
+        "text": "sañjaya uvāca, evam uktvārjunaḥ saṅkhye, rathopastha upāviśat, visṛjya sa-śaraṁ cāpaṁ, śoka-saṁvigna-mānasaḥ",
+        "wordByWordMeaning": {
+          "sañjayaḥ": "Sañjaya",
+          "uvāca": "said",
+          "evam": "thus",
+          "uktvā": "having spoken",
+          "arjunaḥ": "Arjuna",
+          "saṅkhye": "on the battlefield",
+          "ratha-upasthaḥ": "seated in the chariot",
+          "upāviśat": "sat down",
+          "visṛjya": "casting aside",
+          "sa-śaraṁ": "the bow and arrows",
+          "cāpaṁ": "the bow",
+          "śoka": "grief",
+          "saṁvigna": "overcome",
+          "mānasaḥ": "of the mind"
+        },
+        "translation": "Sañjaya said: Arjuna, having thus spoken on the battlefield, cast aside his bow and arrows and sat down on the chariot, his mind overwhelmed with grief.",
+        "conclusion": "Thus end the Bhaktivedanta Purports to the First Chapter of the Śrīmad-Bhagavad-gītā in the matter of Observing the Armies on the Battlefield of Kurukṣetra."
+      }      
       
     ]
 }

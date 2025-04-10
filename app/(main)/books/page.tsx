@@ -1,6 +1,7 @@
 "use client"; // Add this line at the top
 
 import React, { useState } from 'react';
+import Link from "next/link";
 
 const BooksPage = () => {
   const [visibleSection, setVisibleSection] = useState<number | null>(null);
@@ -14,22 +15,22 @@ const BooksPage = () => {
   };
 
   return (
-    <div className="w-full flex flex-col items-center">
-      <h1 className="font-bold">Pustakani</h1>
+    <div className="w-full min-h-screen bg-gradient-to-b from-indigo-50 via-orange-100 to-purple-50 flex flex-col items-center py-10">
+    {/* Page Title with Styling */}
+    <h1 className="text-4xl font-extrabold text-indigo-800 mb-8 tracking-wide drop-shadow-md">Pustakani</h1>
 
-      {/* Button for 1. Stories of Srimad Bhagavatam */}
-      <button
-        onClick={() => toggleVisibility(1)}
-        className="self-start mt-6 px-6 py-3 bg-blue-500 text-white text-lg font-bold rounded hover:bg-blue-700"
-      >
+    {/* Section 1: Stories of Srimad Bhagavatam Part-1 */}
+    <button
+      onClick={() => toggleVisibility(1)}
+      className="self-start mt-6 px-8 py-3 bg-gradient-to-r from-blue-600 to-teal-500 text-white text-xl font-semibold rounded-lg shadow-lg hover:from-blue-800 hover:to-teal-700 transition duration-300"
+    >
         1. Stories of Srimad Bhagavatam Part-1
       </button>
 
-      {/* Conditionally render the stories for 1. Stories of Srimad Bhagavatam */}
+      {/* Conditional Section 1 Content */}
       {visibleSection === 1 && (
-        <div className="mt-6 grid grid-cols-[auto_auto] gap-x-8 gap-y-4">
-          {/* Story 1 */}
-          <h1 className="text-lg ">1. Beginning of Srimad Bhagvatam</h1>
+        <div className="mt-6 w-full max-w-3xl grid grid-cols-[2fr_1fr] gap-x-8 gap-y-6 bg-white p-6 rounded-lg shadow-lg border border-indigo-200">
+          <h1 className="text-xl font-medium text-indigo-900">1. Beginning of Srimad Bhagvatam</h1>
           <button
             onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/01_-_Beginning_of_Srimad_Bhagvatam.pdf')}
             className="px-4 py-2 bg-blue-300 text-black rounded hover:bg-blue-700"
@@ -231,16 +232,15 @@ const BooksPage = () => {
       {/* Button for 2. Stories of Srimad Bhagavatam */}
       <button
         onClick={() => toggleVisibility(2)}
-        className="self-start mt-6 px-6 py-3 bg-green-500 text-white text-lg font-bold rounded hover:bg-green-700"
+        className="self-start mt-6 px-8 py-3 bg-gradient-to-r from-blue-600 to-teal-500 text-white text-xl font-semibold rounded-lg shadow-lg hover:from-blue-800 hover:to-teal-700 transition duration-300"
       >
         2. Stories of Srimad Bhagavatam Part-2
       </button>
 
       {/* Conditionally render the stories for 2. Stories of Srimad Bhagavatam */}
       {visibleSection === 2 && (
-        <div className="mt-6 grid grid-cols-[auto_auto] gap-x-8 gap-y-4">
-          {/* Story 1 */}
-          <h1 className="text-lg ">24. The Act of Prachetas</h1>
+       <div className="mt-6 w-full max-w-3xl grid grid-cols-[2fr_1fr] gap-x-8 gap-y-6 bg-white p-6 rounded-lg shadow-lg border border-indigo-200">
+          <h1 className="text-lg">24. The Act of Prachetas</h1>
           <button
             onClick={() =>
               openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/24_-_The_Act_of_Prachetas.pdf'
@@ -466,125 +466,70 @@ const BooksPage = () => {
           </button>
 
           <h1 className="text-lg ">43. Chitraketu Vritrasura Connection</h1>
-          <button
-            onClick={() =>
-              openUrl(
-                'https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/43_-_Chitraketu_Vritrasura_Connection.pdf'
-              )
-            }
-            className="px-4 py-2 bg-green-300 text-black rounded hover:bg-green-700"
-          >
-            Open PDF
+          <button onClick={() =>openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/43_-_Chitraketu_Vritrasura_Connection.pdf')}
+            className="px-4 py-2 bg-green-300 text-black rounded hover:bg-green-700">Open PDF
            </button>
         </div>
       )}
        {/* Button for 3. Stories of Srimad Bhagavatam */}
       <button
       onClick={() => toggleVisibility(3)}
-      className="self-start mt-6 px-6 py-3 bg-orange-500 text-white text-lg font-bold rounded hover:bg-orange-700"
-    >
+      className="self-start mt-6 px-8 py-3 bg-gradient-to-r from-blue-600 to-teal-500 text-white text-xl font-semibold rounded-lg shadow-lg hover:from-blue-800 hover:to-teal-700 transition duration-300"
+      >
       3. Stories of Srimad Bhagavatam Part-3
     </button>
 
     {/* Conditionally render the stories for 3. Stories of Srimad Bhagavatam */}
     {visibleSection === 3 && (
-      <div className="mt-6 grid grid-cols-[auto_auto] gap-x-8 gap-y-4">
-        {/* Example Story for Section 3 */}
-        <h1 className="text-lg ">44. King Citraketu got a temporary Life</h1>
-          <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/44_-_King_Citraketu_got_a_temporary_Life.pdf') } className="px-4 py-2 bg-orange-400 text-white rounded hover:bg-orange-700">
-            Open PDF </button> 
-
+      <div className="mt-6 w-full max-w-3xl grid grid-cols-[2fr_1fr] gap-x-8 gap-y-6 bg-white p-6 rounded-lg shadow-lg border border-indigo-200">
+          <h1 className="text-lg">44. King Citraketu got a temporary Life</h1>
+          <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/44_-_King_Citraketu_got_a_temporary_Life.pdf') } className="px-4 py-2 bg-orange-400 text-white rounded hover:bg-orange-700">            Open PDF </button> 
             <h1 className="text-lg ">45. Sages Instruction to the King</h1>
-          <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/45_-_Sages_Instruction_to_the_King.pdf') } className="px-4 py-2 bg-orange-400 text-white rounded hover:bg-orange-700">
-            Open PDF </button> 
-
+          <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/45_-_Sages_Instruction_to_the_King.pdf') } className="px-4 py-2 bg-orange-400 text-white rounded hover:bg-orange-700">            Open PDF </button> 
             <h1 className="text-lg ">46. King_Citraketu_meets_the_Supreme_Lord</h1>
-          <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/46_-_King_Citraketu_meets_the_Supreme_Lord.pdf') } className="px-4 py-2 bg-orange-400 text-white rounded hover:bg-orange-700">
-            Open PDF </button> 
-
+          <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/46_-_King_Citraketu_meets_the_Supreme_Lord.pdf') } className="px-4 py-2 bg-orange-400 text-white rounded hover:bg-orange-700">            Open PDF </button> 
             <h1 className="text-lg ">47. Chitraketu_becomes_Vritrasura</h1>
-          <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/47_-_Chitraketu_becomes_Vritrasura.pdf') } className="px-4 py-2 bg-orange-400 text-white rounded hover:bg-orange-700">
-            Open PDF </button> 
-
+          <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/47_-_Chitraketu_becomes_Vritrasura.pdf') } className="px-4 py-2 bg-orange-400 text-white rounded hover:bg-orange-700">            Open PDF </button> 
             <h1 className="text-lg ">48. Diti vows to kill Indra</h1>
-          <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/48_-_Diti_vows_to_kill_Indra.pdf') } className="px-4 py-2 bg-orange-400 text-white rounded hover:bg-orange-700">
-            Open PDF </button> 
-
+          <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/48_-_Diti_vows_to_kill_Indra.pdf') } className="px-4 py-2 bg-orange-400 text-white rounded hover:bg-orange-700">            Open PDF </button> 
             <h1 className="text-lg ">49. Diti starts her Austerities</h1>
-          <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/49_-_Diti_starts_her_Austerities.pdf') } className="px-4 py-2 bg-orange-400 text-white rounded hover:bg-orange-700">
-            Open PDF </button> 
-
+          <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/49_-_Diti_starts_her_Austerities.pdf') } className="px-4 py-2 bg-orange-400 text-white rounded hover:bg-orange-700">            Open PDF </button> 
             <h1 className="text-lg ">50. Babies cut into Pieces</h1>
-          <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/50_-_Babies_cut_into_Pieces.pdf') } className="px-4 py-2 bg-orange-400 text-white rounded hover:bg-orange-700">
-            Open PDF </button> 
-
+          <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/50_-_Babies_cut_into_Pieces.pdf') } className="px-4 py-2 bg-orange-400 text-white rounded hover:bg-orange-700">            Open PDF </button> 
             <h1 className="text-lg ">51. The King of Demons</h1>
-          <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/51_-_The_King_of_Demons.pdf') } className="px-4 py-2 bg-orange-400 text-white rounded hover:bg-orange-700">
-            Open PDF </button> 
-
+          <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/51_-_The_King_of_Demons.pdf') } className="px-4 py-2 bg-orange-400 text-white rounded hover:bg-orange-700">            Open PDF </button> 
             <h1 className="text-lg ">52. Penance by Hiranyakasipu</h1>
-          <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/52_-_Penance_by_Hiranyakasipu.pdf') } className="px-4 py-2 bg-orange-400 text-white rounded hover:bg-orange-700">
-            Open PDF </button> 
-
+          <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/52_-_Penance_by_Hiranyakasipu.pdf') } className="px-4 py-2 bg-orange-400 text-white rounded hover:bg-orange-700">            Open PDF </button> 
             <h1 className="text-lg ">53. Hiranyakasipu asks for Immortality</h1>
-          <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/53_-_Hiranyakasipu_asks_for_Immortality.pdf') } className="px-4 py-2 bg-orange-400 text-white rounded hover:bg-orange-700">
-            Open PDF </button> 
-
+          <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/53_-_Hiranyakasipu_asks_for_Immortality.pdf') } className="px-4 py-2 bg-orange-400 text-white rounded hover:bg-orange-700">            Open PDF </button> 
             <h1 className="text-lg ">54. Hiranyakasipu_Terrorizes_the_Universe</h1>
-          <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/54_-_Hiranyakasipu_Terrorizes_the_Universe.pdf') } className="px-4 py-2 bg-orange-400 text-white rounded hover:bg-orange-700">
-            Open PDF </button> 
-
+          <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/54_-_Hiranyakasipu_Terrorizes_the_Universe.pdf') } className="px-4 py-2 bg-orange-400 text-white rounded hover:bg-orange-700">            Open PDF </button> 
             <h1 className="text-lg ">55. A Lotus in the Pool of Dirt</h1>
-          <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/55_-_A_Lotus_in_the_Pool_of_Dirt.pdf') } className="px-4 py-2 bg-orange-400 text-white rounded hover:bg-orange-700">
-            Open PDF </button> 
-
+          <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/55_-_A_Lotus_in_the_Pool_of_Dirt.pdf') } className="px-4 py-2 bg-orange-400 text-white rounded hover:bg-orange-700">            Open PDF </button> 
             <h1 className="text-lg ">56. The Saintly Son of Hiranyakasipu</h1>
-          <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/56_-_The_Saintly_Son_of_Hiranyakasipu.pdf') } className="px-4 py-2 bg-orange-400 text-white rounded hover:bg-orange-700">
-            Open PDF </button>
-
+          <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/56_-_The_Saintly_Son_of_Hiranyakasipu.pdf') } className="px-4 py-2 bg-orange-400 text-white rounded hover:bg-orange-700">            Open PDF </button>
             <h1 className="text-lg ">57. Perfect Question Perfect Answer</h1>
-          <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/57_-_Perfect_Question_Perfect_Answer.pdf') } className="px-4 py-2 bg-orange-400 text-white rounded hover:bg-orange-700">
-            Open PDF </button>
-
+          <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/57_-_Perfect_Question_Perfect_Answer.pdf') } className="px-4 py-2 bg-orange-400 text-white rounded hover:bg-orange-700">Open PDF </button>
             <h1 className="text-lg ">58. Undeserved Torture to the Son</h1>
-          <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/58_-_Undeserved_Torture_to_the_Son.pdf') } className="px-4 py-2 bg-orange-400 text-white rounded hover:bg-orange-700">
-            Open PDF </button>
-
+          <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/58_-_Undeserved_Torture_to_the_Son.pdf') } className="px-4 py-2 bg-orange-400 text-white rounded hover:bg-orange-700">Open PDF </button>
             <h1 className="text-lg ">60. Teachers_consoling_King</h1>
-          <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/59_-_Teachers_consoling_King.pdf') } className="px-4 py-2 bg-orange-400 text-white rounded hover:bg-orange-700">
-            Open PDF </button>
-
+          <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/59_-_Teachers_consoling_King.pdf') } className="px-4 py-2 bg-orange-400 text-white rounded hover:bg-orange-700">Open PDF </button>
             <h1 className="text-lg ">61. Prahlad in the Womb</h1>
-          <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/60_-_Prahlad_in_the_Womb.pdf') } className="px-4 py-2 bg-orange-400 text-white rounded hover:bg-orange-700">
-            Open PDF </button>
-
+          <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/60_-_Prahlad_in_the_Womb.pdf') } className="px-4 py-2 bg-orange-400 text-white rounded hover:bg-orange-700">Open PDF </button>
             <h1 className="text-lg ">61. Prahlada Instructs his Schoolmates-01</h1>
-          <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/61_-_Prahlada_Instructs_his_Schoolmates-01.pdf') } className="px-4 py-2 bg-orange-400 text-white rounded hover:bg-orange-700">
-            Open PDF </button>
-
+          <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/61_-_Prahlada_Instructs_his_Schoolmates-01.pdf') } className="px-4 py-2 bg-orange-400 text-white rounded hover:bg-orange-700">Open PDF </button>
             <h1 className="text-lg ">62. Prahlada Instructs his Schoolmates-02</h1>
-          <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/62_-_Prahlada_Instructs_his_Schoolmates-02.pdf') } className="px-4 py-2 bg-orange-400 text-white rounded hover:bg-orange-700">
-            Open PDF </button>
-
+          <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/62_-_Prahlada_Instructs_his_Schoolmates-02.pdf') } className="px-4 py-2 bg-orange-400 text-white rounded hover:bg-orange-700">            Open PDF </button>
             <h1 className="text-lg ">63. Final Instructions to his Mates</h1>
-          <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/63_-_Final_Instructions_to_his_Mates.pdf') } className="px-4 py-2 bg-orange-400 text-white rounded hover:bg-orange-700">
-            Open PDF </button>
-
+          <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/63_-_Final_Instructions_to_his_Mates.pdf') } className="px-4 py-2 bg-orange-400 text-white rounded hover:bg-orange-700">Open PDF </button>
             <h1 className="text-lg ">64. Hiranyakasipu threatens Prahlada Maharaja</h1>
-          <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/64_-_Hiranyakasipu_threatens_Prahlada_Maharaja.pdf') } className="px-4 py-2 bg-orange-400 text-white rounded hover:bg-orange-700">
-            Open PDF </button>
-
+          <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/64_-_Hiranyakasipu_threatens_Prahlada_Maharaja.pdf') } className="px-4 py-2 bg-orange-400 text-white rounded hover:bg-orange-700">Open PDF </button>
             <h1 className="text-lg ">65. Appearance of a Personality from Pillar</h1>
-          <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/65_-_Appearance_of_a_Personality_from_Pillar.pdf') } className="px-4 py-2 bg-orange-400 text-white rounded hover:bg-orange-700">
-            Open PDF </button>
-
+          <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/65_-_Appearance_of_a_Personality_from_Pillar.pdf') } className="px-4 py-2 bg-orange-400 text-white rounded hover:bg-orange-700">Open PDF </button>
             <h1 className="text-lg ">66. The Furious Nrsimhadeva</h1>
-          <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/66_-_The_Furious_Nrsimhadeva.pdf') } className="px-4 py-2 bg-orange-400 text-white rounded hover:bg-orange-700">
-            Open PDF </button>
-
+          <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/66_-_The_Furious_Nrsimhadeva.pdf') } className="px-4 py-2 bg-orange-400 text-white rounded hover:bg-orange-700">Open PDF </button>
             <h1 className="text-lg ">67. A Divine Trikuta</h1>
-          <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/67_-_A_Divine_Trikuta.pdf') } className="px-4 py-2 bg-orange-400 text-white rounded hover:bg-orange-700">
-            Open PDF </button>
+          <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/67_-_A_Divine_Trikuta.pdf') } className="px-4 py-2 bg-orange-400 text-white rounded hover:bg-orange-700">Open PDF </button>
 
             
         </div>
@@ -593,87 +538,77 @@ const BooksPage = () => {
        {/* Button for 4. Stories of Srimad Bhagavatam */}
        <button
         onClick={() => toggleVisibility(4)}
-        className="self-start mt-6 px-6 py-3 bg-purple-500 text-white text-lg font-bold rounded hover:bg-purple-700"
+        className="self-start mt-6 px-8 py-3 bg-gradient-to-r from-blue-600 to-teal-500 text-white text-xl font-semibold rounded-lg shadow-lg hover:from-blue-800 hover:to-teal-700 transition duration-300"
       >
         4. Stories of Srimad Bhagavatam Part-4
       </button>
 
       {/* Conditionally render the stories for 4. Stories of Srimad Bhagavatam */}
       {visibleSection === 4 && (
-        <div className="mt-6 grid grid-cols-[auto_auto] gap-x-8 gap-y-4">
+        <div className="mt-6 w-full max-w-3xl grid grid-cols-[2fr_1fr] gap-x-8 gap-y-6 bg-white p-6 rounded-lg shadow-lg border border-indigo-200">
 
           <h1 className="text-lg ">68. In Crisis-An Elephant</h1>
           <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/68_-_In_Crisis-An_Elephant.pdf') } className="px-4 py-2 bg-purple-400 text-white rounded hover:bg-purple-700"> Open PDF </button>
-
           <h1 className="text-lg ">69. Gajendra Surrenders and returns Home</h1>
           <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/69_-_Gajendra_Surrenders_and_returns_Home.pdf') } className="px-4 py-2 bg-purple-400 text-white rounded hover:bg-purple-700"> Open PDF </button>
-
           <h1 className="text-lg ">70. The Truce between Demigods and Demons</h1>
           <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/70_-_The_Truce_between_Demigods_and_Demons.pdf') } className="px-4 py-2 bg-purple-400 text-white rounded hover:bg-purple-700"> Open PDF </button>
-
           <h1 className="text-lg ">71. A Most Gracious One - Neelkantha</h1>
           <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/71_-_A_Most_Gracious_One_-_Neelkantha.pdf') } className="px-4 py-2 bg-purple-400 text-white rounded hover:bg-purple-700"> Open PDF </button>
-
           <h1 className="text-lg ">72. The Churning of the Milk Ocean</h1>
           <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/72_-_The_Churning_of_the_Milk_Ocean.pdf') } className="px-4 py-2 bg-purple-400 text-white rounded hover:bg-purple-700"> Open PDF </button>
-
           <h1 className="text-lg ">73. Churning and Appearance of Rama</h1>
           <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/73_-_Churning_and_Appearance_of_Rama.pdf') } className="px-4 py-2 bg-purple-400 text-white rounded hover:bg-purple-700"> Open PDF </button>
-
           <h1 className="text-lg ">74. The Churning and Dhanvantri</h1>
           <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/74_-_The_Churning_and_Dhanvantri.pdf') } className="px-4 py-2 bg-purple-400 text-white rounded hover:bg-purple-700"> Open PDF </button>
-
           <h1 className="text-lg ">75. The Result of Aditi's Austerities</h1>
           <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/75_-_The_Result_of_Aditi%27s_Austerities.pdf') } className="px-4 py-2 bg-purple-400 text-white rounded hover:bg-purple-700"> Open PDF </button>
-
           <h1 className="text-lg ">76. The Dwarf Incarnation</h1>
           <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/76_-_The_Dwarf_Incarnation.pdf') } className="px-4 py-2 bg-purple-400 text-white rounded hover:bg-purple-700"> Open PDF </button>
-
           <h1 className="text-lg ">77. Lord Begs Charity from a King</h1>
           <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/77_-_Lord_Begs_Charity_from_a_King.pdf') } className="px-4 py-2 bg-purple-400 text-white rounded hover:bg-purple-700"> Open PDF </button>
-
           <h1 className="text-lg ">78. Bali Maharaja Surrenders the Universe</h1>
           <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/78_-_Bali_Maharaja_Surrenders_the_Universe.pdf') } className="px-4 py-2 bg-purple-400 text-white rounded hover:bg-purple-700"> Open PDF </button>
-
           <h1 className="text-lg ">7.9ali Maharaja Arrested by the Lord</h1>
           <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/79_-_Bali_Maharaja_Arrested_by_the_Lord.pdf') } className="px-4 py-2 bg-purple-400 text-white rounded hover:bg-purple-700"> Open PDF </button>
-
           <h1 className="text-lg ">80. A Generous King Surrenders his Life</h1>
           <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/80_-_A_Generous_King_Surrenders_his_Life.pdf') } className="px-4 py-2 bg-purple-400 text-white rounded hover:bg-purple-700"> Open PDF </button>
-
           <h1 className="text-lg ">81. Back Home Back to Heaven</h1>
           <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/81_-_Back_Home_Back_to_Heaven.pdf') } className="px-4 py-2 bg-purple-400 text-white rounded hover:bg-purple-700"> Open PDF </button>
-
           <h1 className="text-lg ">82. Lord Appears As Fish</h1>
           <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/82_-_Lord_Appears_As_Fish.pdf') } className="px-4 py-2 bg-purple-400 text-white rounded hover:bg-purple-700"> Open PDF </button>
-
           <h1 className="text-lg ">83. King Sudyumna Becomes a Woman</h1>
           <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/83_-_King_Sudyumna_Becomes_a_Woman.pdf') } className="px-4 py-2 bg-purple-400 text-white rounded hover:bg-purple-700"> Open PDF </button>
-
           <h1 className="text-lg ">84. The Downfall of Saubhari Muni</h1>
           <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/84_-_The_Downfall_of_Saubhari_Muni.pdf') } className="px-4 py-2 bg-purple-400 text-white rounded hover:bg-purple-700"> Open PDF </button>
-
           <h1 className="text-lg ">85. King Pururava Enchanted by Urvasi</h1>
           <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/85_-_King_Pururava_Enchanted_by_Urvasi.pdf') } className="px-4 py-2 bg-purple-400 text-white rounded hover:bg-purple-700"> Open PDF </button>
-
           <h1 className="text-lg ">86. King Yayati regains his Youth</h1>
           <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/86_-_King_Yayati_regains_his_Youth.pdf') } className="px-4 py-2 bg-purple-400 text-white rounded hover:bg-purple-700"> Open PDF </button>
-
           <h1 className="text-lg ">87. King_Yayati_Achieves_Liberation</h1>
           <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/87_-_King_Yayati_Achieves_Liberation.pdf') } className="px-4 py-2 bg-purple-400 text-white rounded hover:bg-purple-700"> Open PDF </button>
-
           <h1 className="text-lg ">88. King_Rantideva</h1>
           <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/88_-_King_Rantideva.pdf') } className="px-4 py-2 bg-purple-400 text-white rounded hover:bg-purple-700"> Open PDF </button>
-
           <h1 className="text-lg ">89. The Saver of the Earth Appears</h1>
           <button onClick={() => openUrl('https://ebooks.iskcondesiretree.com/pdf/Srimad_Bhagavatam_Stories/The_Saver_of_the_Earth_Appears.pdf') } className="px-4 py-2 bg-purple-400 text-white rounded hover:bg-purple-700"> Open PDF </button>
           
-          <h1 className="text-lg ">4. </h1>
-          <button onClick={() => openUrl('') } className="px-4 py-2 bg-purple-400 text-white rounded hover:bg-purple-700"> Open PDF </button>
-
           
         </div>
       )}
+      {/* Divider Line Above Buy Books Section */}
+      <hr className="w-3/4 my-10 border-t-2 border-gray-300" />
+     {/* Enhanced Buy Books Section */}
+     <div className="w-full max-w-3xl text-center">
+        <h2 className="text-2xl font-bold text-gray-800 mb-6">Purchase Books</h2>
+        <div className="flex flex-col sm:flex-row justify-center gap-6">
+          <Link href="/books/buybooks">
+            <button className="px-8 py-3 bg-green-600 text-white text-lg font-semibold rounded-lg shadow-md hover:bg-green-700 transition duration-300">
+              Buy Sanskrit & Other books
+            </button>
+          </Link>
+        </div>
+        <p className="mt-4 text-gray-600">Explore</p>
+      </div>
     </div>
   );
 };

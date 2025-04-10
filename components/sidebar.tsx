@@ -36,12 +36,17 @@ export const Sidebar = ({ className }: SidebarProps) => {
           href="/leaderboard"
           iconSrc="/leaderboard.svg"
         />
-        <SidebarItem label="Anveṣaṇam (quests)" href="/quests" iconSrc="/quests.svg" />
-        <SidebarItem label="Āpaṇaḥ.(shop)" href="/shop" iconSrc="/shop.svg" />
-        <SidebarItem label="Pustakani(books)" href="/books" iconSrc="/book.svg" />
-        <SidebarItem label="Slokas" href="/Slokas" iconSrc="/Sloka.svg" />
-        <SidebarItem label="108 Counter" href="/japa" iconSrc="/japa.svg" />
-      </div>
+        
+  <SidebarItem label="Anveṣaṇam (quests)" href="/quests" iconSrc="/quests.svg" />
+  <SidebarItem label="Āpaṇaḥ.(shop)" href="/shop" iconSrc="/shop.svg" />
+  <SidebarItem label="Chat Room" href="/Room" iconSrc="/room.svg" />
+  <SidebarItem label="Slokas" href="/Slokas" iconSrc="/Sloka.svg" />
+  <SidebarItem label="Videos" href="/Videos" iconSrc="/videos.svg" />
+  <SidebarItem label="Pustakani(books)" href="/books" iconSrc="/book.svg" />
+  <SidebarItem label="108 Counter" href="/japa" iconSrc="/japa.svg" />
+  
+  
+</div>
 
       <div className="p-4">
         <ClerkLoading>

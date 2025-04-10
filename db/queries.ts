@@ -1,5 +1,4 @@
 import { cache } from "react";
-
 import { auth } from "@clerk/nextjs";
 import { eq } from "drizzle-orm";
 
@@ -11,13 +10,13 @@ import {
   units,
   userProgress,
   userSubscription,
+  messages, // Added messages import
 } from "./schema";
 
 const DAY_IN_MS = 86_400_000;
 
 export const getCourses = cache(async () => {
   const data = await db.query.courses.findMany();
-
   return data;
 });
 
@@ -243,4 +242,18 @@ export const getTopTenUsers = cache(async () => {
   });
 
   return data;
+});
+
+// New function to fetch messages
+export const getMessages = cache(async () => {
+  const data = await db.query.messages.findMany({
+    orderBy: (messages, { asc }) => [asc(messages.timestamp)],
+    limit: 50,
+  });
+  return data.map((msg) => ({
+    id: msg.id,
+    username: msg.username,
+    text: msg.text,
+    timestamp: new Date(msg.timestamp),
+  }));
 });
